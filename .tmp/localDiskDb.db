@@ -1,0 +1,1375 @@
+{
+  "data": {
+    "aboutitseed": [
+      {
+        "author": 2,
+        "title": "- 計畫簡介 -",
+        "content": "<p><span style=\"color: rgb(0, 0, 0); font-size: 18px;\">  新北市電腦商業同業公會，有鑒於2003年IT產業人才缺口尚未補足，決心創立一有效整合性學習平台，提供有志投身IT產業的莘莘學子們寶貴的專業實務與產業實戰經驗，第一屆資訊種子培訓計畫應運而生。</span></p><p><span style=\"color: rgb(0, 0, 0); font-size: 18px;\">  資訊種子計畫整合社會資源進行完整、宏觀的課程薰陶及實務訓練，期許結業學員獲得跨領域產業知識、培養正確職場態度、提高思考深度與廣度、並累積產業人脈存摺，培育全方位人才。</span></p><p><span style=\"color: rgb(0, 0, 0); font-size: 18px;\">  參與學員在經過書審與面試後，即可加入為期一年的免費培訓計畫。目前培訓計畫即將邁入第十五屆，廣納各大專院校不同科系背景之學員，累積培養400多位校友投身各產業服務及創業，在各行各業逐漸發展，同時回歸資訊種子進行傳承，締造善意的累積與循環。</span></p>",
+        "status": "P",
+        "createdAt": "2017-05-30T19:35:23.956Z",
+        "updatedAt": "2017-05-31T18:31:13.111Z",
+        "id": 1
+      },
+      {
+        "author": 2,
+        "title": "人我關係",
+        "content": "\r\n            \r\n                <p><span style=\"font-size: 18px;\">了解自己、認識他人</span></p><p><span style=\"font-size: 18px;\">建立連結、創造價值</span></p>\r\n            \r\n        ",
+        "status": "P",
+        "createdAt": "2017-05-30T19:36:09.156Z",
+        "updatedAt": "2017-05-31T18:33:21.682Z",
+        "id": 2
+      },
+      {
+        "author": 2,
+        "title": "產業動態",
+        "content": "<p><span style=\"font-size: 18px; color: rgb(0, 0, 0);\">資訊科技、品牌行銷</span></p><p><span style=\"font-size: 18px; color: rgb(0, 0, 0);\">社會公益、文化創意</span>\r\n            \r\n        </p>",
+        "status": "P",
+        "createdAt": "2017-05-30T19:36:39.603Z",
+        "updatedAt": "2017-05-30T19:36:39.603Z",
+        "id": 3
+      },
+      {
+        "author": 2,
+        "title": "就業即戰力",
+        "content": "\r\n            \r\n                <p><span style=\"font-size: 18px;\">專案力、簡報力、溝通力</span></p><p><span style=\"font-size: 18px;\">資訊力、創新力、行銷力</span>\r\n            \r\n        </p>\r\n            \r\n        ",
+        "status": "P",
+        "createdAt": "2017-05-30T19:36:58.031Z",
+        "updatedAt": "2017-05-31T18:33:30.933Z",
+        "id": 4
+      },
+      {
+        "author": 2,
+        "title": "職涯發展",
+        "content": "<p><span style=\"font-size: 18px;\">適性測驗、生涯規劃</span></p><p><span style=\"font-size: 18px;\">職涯體驗</span>\r\n            \r\n        </p>",
+        "status": "P",
+        "createdAt": "2017-05-30T19:37:24.869Z",
+        "updatedAt": "2017-05-30T19:37:24.869Z",
+        "id": 5
+      }
+    ],
+    "aboutntca": [
+      {
+        "author": 2,
+        "title": "新北市電腦商業同業公會",
+        "content": "<p><span style=\"font-size: 18px;\">  成立於1987年，由新北市資訊及通訊技術廠商所組成，會員廠商從硬體製造、軟體發展、通訊電信到數位內容廠商，會務內容多元，為臺灣ICT產業發展的重要推手。二十餘年來，在多屆理監事與會員的熱心企劃及參與下，不斷提升會員服務品質，擴大參與政府各項專案計畫。</span></p><p><span style=\"font-size: 18px;\">   為協助學員進軍國際市場，每年均帶領國內資通訊及數位內容廠商至國外參展，有效協助會員拓展商機。主要會員代表均為業界重量級企業代表，包含臺灣微軟、緯創資通、大宇資訊、點晶科技、威健實業、和椿科技、新鼎系統、明日工作室、羽冠電腦、國眾電腦、尚立、宜鼎國際、捷元等，目前會員廠商已累積超過2,200家，同時涵蓋了電腦、通訊、網路多媒體、資訊服務及數位內容等產業。</span></p>",
+        "status": "P",
+        "createdAt": "2017-05-30T19:40:23.916Z",
+        "updatedAt": "2017-05-31T18:32:11.191Z",
+        "id": 1
+      }
+    ],
+    "businessvisit": [
+      {
+        "author": 2,
+        "title": "Microsoft",
+        "content": "\r\n            \r\n                <span style=\"font-size: 18px;\">微軟是全球科技產業的領航者，自 1975 年成立以來，微軟一直專注於技術創新與變革，致力提供卓越的軟體、設備和服務。近年來，在這個「行動優先、雲端至上」的世界裡，微軟的核心競爭力，成為一個提供生產力與平台的公司。台灣微軟成立於 1989 年，坐落於臺北市信義區，其長期耕耘於提升台灣創新力、競爭力及促進經濟繁榮，成為政府、學校與企業最值得信賴的夥伴。</span>\r\n            \r\n        ",
+        "status": "P",
+        "th": 15,
+        "photo": "/images/businessVisit/465070a4-f60f-435e-b783-3bdc40828e67.png",
+        "createdAt": "2017-05-30T19:44:58.748Z",
+        "updatedAt": "2017-06-19T16:28:31.296Z",
+        "id": 1,
+        "order": 1
+      },
+      {
+        "author": 2,
+        "title": "ANKO",
+        "content": "<span style=\"font-size: 18px;\">安口秉持服務盡善盡美、品質精益求精、研發求新求變的企業文化與精神，持續不斷根據客戶與國際市場需求，創新研發品質優良的機器與提供完善、確實的售後服務。安口成立於西元1978年，因應當時台灣流行生機飲食，成功研發全自動免電芽菜培育機，持續暢銷海內外許久。由於客製化、價格合理、品質穩定，因此甚獲好評，目前已拓銷到108國，為台灣食品機械的領導品牌。</span>",
+        "status": "P",
+        "th": 15,
+        "photo": "/images/businessVisit/1223fc47-53b7-4a15-9eb6-2d41c4926ea0.jpg",
+        "createdAt": "2017-05-30T19:46:48.901Z",
+        "updatedAt": "2017-05-30T19:49:18.045Z",
+        "id": 2,
+        "order": 2
+      },
+      {
+        "author": 2,
+        "title": "Innodisk",
+        "content": "<span style=\"font-size: 18px;\">以顧客為導向的工業用儲存裝置供應商，在企業級、工業、航太與國防等應用市場，提供工業用嵌入式儲存裝置及工業用動態隨機記憶體模組與相關技術服務。回顧過去10年來，Innodisk擁有多年工控領域經驗，藉由培育自己的韌體團隊與自有工廠，專注於嵌入式儲存裝置市場，讓宜鼎國際能夠提供比同業更專業的服務。</span>",
+        "status": "P",
+        "th": 15,
+        "photo": "/images/businessVisit/85e1fd44-1df1-42d1-9cb6-a85ac38948a4.jpg",
+        "createdAt": "2017-05-30T19:47:39.072Z",
+        "updatedAt": "2017-05-30T19:49:34.464Z",
+        "id": 3,
+        "order": 3
+      },
+      {
+        "author": 2,
+        "title": "Aurotek",
+        "content": "<span style=\"font-size: 18px;\">和椿科技，三十年來以自動化和機器人技術滿足多樣的客戶需求，秉持著共享高科技產業技術的經驗累積，成就高附加價值的服務。引進先進且高品質的關鍵組件，為追求高品質的工業設計而努力。經過多年的耕耘，和椿所提供之服務已遍及世界各地；和椿已於日本、中國及泰國設立海外據點及分支機構，無論是對供應商或是對客戶端，和椿在其供應鏈上扮演極重要、關鍵的角色。</span>",
+        "status": "P",
+        "th": 15,
+        "photo": "/images/businessVisit/c2f57123-9e5a-4bcf-bd27-19a5523dcd01.jpg",
+        "createdAt": "2017-05-30T19:48:22.597Z",
+        "updatedAt": "2017-05-30T19:49:58.033Z",
+        "id": 4,
+        "order": 4
+      }
+    ],
+    "career": [],
+    "courseinfo": [
+      {
+        "author": 2,
+        "title": "資種的這些年，那些事",
+        "content": "\r\n            \r\n                \r\n            \r\n                \r\n            \r\n                <p style=\"line-height: 1.8;\"><span style=\"color: rgb(0, 0, 0); font-size: 18px; font-weight: bold;\">課程介紹</span></p><p style=\"line-height: 1.8;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 18px;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 18px;\">&nbsp;&nbsp;</span><span id=\"docs-internal-guid-bc3c9367-5bd0-c99d-6ae1-68b434fde5ce\"><span style=\"font-size: 18px; font-family: &quot;Times New Roman&quot;; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">第一堂課程邀請了陳芬玉總幹事、4th呂瑾玟學姊與7th方選學長，和十四屆學員們分享資種與未來發展的連結，及帶來的影響與價值，更邀請歷屆的學長姊們，以輪桌形式分享相關經驗，幫助學員們對於資種培訓計畫有更明確地輪廓、想像。</span></span><br></span></p><p style=\"line-height: 1.8;\"><span style=\"color: rgb(0, 0, 0); font-size: 18px; font-weight: bold;\">課程重點</span></p><ol><li style=\"line-height: 1.8;\"><span style=\"background-color: transparent; font-family: Arial; font-size: 18px; white-space: pre-wrap; color: rgb(0, 0, 0);\">「創新」始終來自於服務，「科技」始終在於人性</span></li><li style=\"line-height: 1.8;\"><span style=\"color: rgb(0, 0, 0); font-size: 18px;\">別急著畢業後就創業，建議可以先進公司了解產業、增強能力</span></li><li style=\"line-height: 1.8;\"><span style=\"color: rgb(0, 0, 0); font-size: 18px;\">3C代表：Cooperation(合作)、Communication(溝通)、Commitment(承諾)</span></li><li style=\"line-height: 1.8;\"><span style=\"color: rgb(0, 0, 0); font-size: 18px;\">活在當下，用心體會現在，有時候目標並不是那麼重要</span></li><li style=\"line-height: 1.8;\"><span style=\"color: rgb(0, 0, 0); font-size: 18px;\">善用時間管理的小工具，並明確規劃事情的輕重緩急</span></li></ol><p style=\"line-height: 1.8;\"><span style=\"color: rgb(0, 0, 0); font-size: 18px; font-weight: bold;\">學員心得</span></p><p style=\"line-height: 1.8;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 18px;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 18px;\">&nbsp;&nbsp;</span><span id=\"docs-internal-guid-bc3c9367-5bd1-9cdf-9b45-a267371b1001\"><span style=\"font-size: 18px; font-family: &quot;Times New Roman&quot;; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">第一堂課程讓我體認到能參與資訊種子的機會真的是得來不易，令我印象深刻的是資訊種子強調的「高度自主性」，跟過去習慣的被動式教育相差許多，透過課程、專案執行培養我們思考及解決問題，還有與同屆夥伴合作的能力，而這正是我一直以來渴求的東西。第一堂，講師即以過來人的身份分享內部創新所可能帶來的影響、改變，還有對於目標追求的堅持態度，讓我更深信資訊種子會是值得用心耕耘的地方。</span></span></span><br></p>\r\n            \r\n        \r\n            \r\n        \r\n            \r\n        ",
+        "status": "P",
+        "th": 14,
+        "speaker": "陳芬玉總幹事、瑾玟學姊、方選學長",
+        "speakerTitle": "新北市電腦商業同業公會",
+        "photo": "/images/courseInfo/7b402376-f9f2-4223-8b29-3c660e407162.png",
+        "createdAt": "2017-05-31T00:03:11.867Z",
+        "updatedAt": "2017-06-01T15:36:53.934Z",
+        "id": 4,
+        "order": 4
+      },
+      {
+        "author": 2,
+        "title": "專案管理的思維：創造高效率合作",
+        "content": "<p style=\"line-height: 1.8;\"><span style=\"font-size: 18px; color: rgb(0, 0, 0); font-weight: bold;\">課程介紹</span></p><p style=\"line-height: 1.8;\"><span id=\"docs-internal-guid-bc3c9367-5bd3-393a-b666-f623233bf9b8\" style=\"color: rgb(0, 0, 0);\"></span></p><p dir=\"ltr\" style=\"line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 18px;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 18px;\">&nbsp;&nbsp;</span><span style=\"font-size: 18px; font-family: &quot;Times New Roman&quot;; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">講師除了以自身經驗，帶領大家了解專案管理的相關重點，更在課程中，以遊戲的方式，讓學員們實際體驗在執行專案時，可能發生的狀況及應對方法，幫助學員建立正確的專案管理思維。</span></span></p><p style=\"line-height: 1.8;\"><span style=\"font-size: 18px; color: rgb(0, 0, 0); font-weight: bold;\">課程重點</span></p><ol><li style=\"line-height: 1.8;\"><span style=\"background-color: transparent; font-family: Arial; font-size: 18px; white-space: pre-wrap; color: rgb(0, 0, 0);\">專案三大限制：時間、品質、成本</span></li><li style=\"line-height: 1.8;\"><span style=\"font-size: 18px; color: rgb(0, 0, 0);\">影響力 = 專案位階 + 專業程度</span></li><li style=\"line-height: 1.8;\"><span style=\"font-size: 18px; color: rgb(0, 0, 0);\">無論位階如何，能發揮「影響力」的人擁有最大權力</span></li><li style=\"line-height: 1.8;\"><span style=\"font-size: 18px; color: rgb(0, 0, 0);\">「專案管理是種生活態度」，要提早做早中長期規劃、善用資訊工具，並思考備用方案</span></li><li style=\"line-height: 1.8;\"><span style=\"font-size: 18px; color: rgb(0, 0, 0);\">人常常受限於眼前的資源、事物，把眼光放寬一點，會發現很多其他資源</span></li></ol><p style=\"line-height: 1.8;\"><span style=\"font-size: 18px; color: rgb(0, 0, 0); font-weight: bold;\">學員心得</span></p><p style=\"line-height: 1.8;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 18px;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 18px;\">&nbsp;&nbsp;</span><span id=\"docs-internal-guid-bc3c9367-5bd3-e49f-008e-29fbc1316834\"><span style=\"font-size: 18px; font-family: &quot;Times New Roman&quot;; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">雖然過去接觸過許多專案的實作，但我幾乎都是用不同的方式在帶領團隊與管理專案，對我來說，可以透過這樣的方式去了解哪種方案比較有效，但相對，因為都是第一次嘗試，易顯得毫無章法。而在聽了講師的分享後，學習到一套可遵循的專案管理模式，特別是時間管理，設定時程及早、中、長期規劃是非常有幫助的，這些方法能確保專案依循著當初設定的大方向走又不會讓專案延遲，確實是大家都該學習的管理方法。</span></span></span><br></p>",
+        "status": "P",
+        "th": 14,
+        "speaker": "李奕輝經理",
+        "speakerTitle": "和椿科技節能安全事業處營業部",
+        "photo": "/images/courseInfo/a6b75309-924f-4fdc-bc2e-d5b02557a398.png",
+        "createdAt": "2017-05-31T00:07:50.011Z",
+        "updatedAt": "2017-05-31T00:07:50.011Z",
+        "id": 5,
+        "order": 5
+      },
+      {
+        "author": 2,
+        "title": "Content Hacker！社群內容的必殺公式",
+        "content": "<p style=\"line-height: 1.8;\"><span style=\"font-size: 18px; color: rgb(0, 0, 0); font-weight: bold;\">課程介紹</span></p><p style=\"line-height: 1.8;\"><span id=\"docs-internal-guid-bc3c9367-5bd5-2c76-0ef3-a167ac7a92da\" style=\"color: rgb(0, 0, 0);\"></span></p><p dir=\"ltr\" style=\"line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 18px;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 18px;\">&nbsp;&nbsp;</span><span style=\"font-size: 18px; font-family: &quot;Times New Roman&quot;; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">臺灣吧的陳思傑總監從「內容」的角度出發，打破學員對於小編原先的想像，並提醒學員們應該用更宏觀的角度，跳脫單一社群框架，運用邏輯與策略來經營社群。</span></span></p><p style=\"line-height: 1.8;\"><span style=\"font-size: 18px; color: rgb(0, 0, 0); font-weight: bold;\">課程重點</span></p><ol><li style=\"line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"background-color: transparent; font-family: Arial; font-size: 18px; white-space: pre-wrap; color: rgb(0, 0, 0);\">原生內容必中公式？沒有這種東西！</span></li><li style=\"line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 18px; color: rgb(0, 0, 0);\">社群不等於粉專，人在哪社群就在哪</span></li><li dir=\"ltr\" style=\"list-style-type: decimal; font-size: 11pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-decoration: none; vertical-align: baseline; line-height: 1.8;\"><p dir=\"ltr\" style=\"line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 18px; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);\">內容配方三步驟：知道自己要講什麼、知道受眾想聽什麼、思考兩者如何結合</span></p></li><li dir=\"ltr\" style=\"list-style-type: decimal; font-size: 11pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-decoration: none; vertical-align: baseline; line-height: 1.8;\"><p dir=\"ltr\" style=\"line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 18px; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);\">內容不能只靠靈光一閃的創意，還要有執行力並且符合邏輯</span></p></li><li dir=\"ltr\" style=\"list-style-type: decimal; font-size: 11pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-decoration: none; vertical-align: baseline; line-height: 1.8;\"><p dir=\"ltr\" style=\"line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 18px; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);\">六大工具指標：Reach, O. Reach, Viral, Engage, Fan Engage, TAT</span></p></li></ol><p style=\"line-height: 1.8;\"><span style=\"font-size: 18px; color: rgb(0, 0, 0); font-weight: bold;\">學員心得</span></p><p style=\"line-height: 1.8;\"><span id=\"docs-internal-guid-bc3c9367-5bd5-baad-ada9-f8b9ddb43493\" style=\"color: rgb(0, 0, 0);\"></span></p><p dir=\"ltr\" style=\"line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 18px;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 18px;\">&nbsp;&nbsp;</span><span style=\"font-size: 18px; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">非常感謝陳總監無私地傳授豐富的經歷以及創意訓練小活動，讓我們從中更加了解社群行銷的困難及技巧。其實社群行銷沒有必中公式，每個社群都存有不確定的因素，只能盡一切的努力去切合，將社群想像成「人」，努力地塑造出相符的社群調性，為其設計出適合的社群內容，打造出符合自訂目標與目標客群的社群平台。</span></span></p>",
+        "status": "P",
+        "th": 14,
+        "speaker": "陳思傑行銷總監",
+        "speakerTitle": "臺灣各種吧有限公司",
+        "photo": "/images/courseInfo/fcf6b033-0adb-417e-b459-19751a63718d.png",
+        "createdAt": "2017-05-31T00:10:18.809Z",
+        "updatedAt": "2017-05-31T00:10:18.809Z",
+        "id": 6,
+        "order": 6
+      },
+      {
+        "author": 2,
+        "title": "突破框架 X 設計思考",
+        "content": "<p style=\"line-height: 1.8;\"><span style=\"color: rgb(0, 0, 0); font-size: 18px; font-weight: bold;\">課程介紹</span></p><p style=\"line-height: 1.8;\"><span id=\"docs-internal-guid-bc3c9367-5bd7-defe-a8f8-3b287a7a9048\" style=\"color: rgb(0, 0, 0);\"></span></p><p dir=\"ltr\" style=\"line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 18px;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 18px;\">&nbsp;&nbsp;</span><span style=\"font-size: 18px; font-family: &quot;Times New Roman&quot;; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">智造世務所的林紹偉經理從「設計思考」的角度出發，讓學員們對於社會設計以及快速原型設計有進一步的了解；而親手實作簡易Prototype也讓學員們從做中學，實際運用設計思考的概念。</span></span></p><p style=\"line-height: 1.8;\"><span style=\"color: rgb(0, 0, 0); font-size: 18px; font-weight: bold;\">課程重點</span></p><ol><li style=\"line-height: 1.8;\"><span style=\"background-color: transparent; font-family: Arial; font-size: 18px; white-space: pre-wrap; color: rgb(0, 0, 0);\">設計思考是一種以人為本的設計方法</span></li><li dir=\"ltr\" style=\"list-style-type: decimal; font-size: 11pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-decoration: none; vertical-align: baseline; line-height: 1.8;\"><p dir=\"ltr\" style=\"line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 18px; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);\">設計思考五步驟：同理心、定義問題、創意動腦、原型設計、測試修正</span></p></li><li dir=\"ltr\" style=\"list-style-type: decimal; font-size: 11pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-decoration: none; vertical-align: baseline; line-height: 1.8;\"><p dir=\"ltr\" style=\"line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 18px; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);\">思考時的工具：心智圖、手繪稿、故事板</span></p></li><li dir=\"ltr\" style=\"list-style-type: decimal; font-size: 11pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-decoration: none; vertical-align: baseline; line-height: 1.8;\"><p dir=\"ltr\" style=\"line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 18px; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);\">好的快速原型設計：快、便宜、精準、可測試、可量化</span></p></li><li dir=\"ltr\" style=\"list-style-type: decimal; font-size: 11pt; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-decoration: none; vertical-align: baseline; line-height: 1.8;\"><p dir=\"ltr\" style=\"line-height: 1.8; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 18px; font-family: Arial; background-color: transparent; font-weight: 400; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);\">不去想說要製造什麼，而是為思考而製造</span></p></li></ol><p style=\"line-height: 1.8;\"><span style=\"color: rgb(0, 0, 0); font-size: 18px; font-weight: bold;\">學員心得</span></p><p style=\"line-height: 1.8;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 18px;\">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 18px;\">&nbsp;&nbsp;</span><span id=\"docs-internal-guid-bc3c9367-5bd8-4b91-ffdb-122c737f3843\"><span style=\"font-size: 18px; font-family: Arial; background-color: transparent; vertical-align: baseline; white-space: pre-wrap;\">在課程中，我們針對「街友」議題繪製心智圖，並利用從家中帶來的廢棄物製作快速原型。就在做到一半的時候，講師又派來扮演「街友」的人，告知我們街友的真正需求。這讓我了解到，有時我們認為好的解決方案可能並非受眾真正在乎的問題，因此能夠設身處地地思考便成為執行專案上很重要的一環。願自己在未來執行方案或設計時能夠秉持著這項精神，不再只是閉門造車，而是走進人群，深刻了解受眾的需求。</span></span></span><br></p>",
+        "status": "P",
+        "th": 14,
+        "speaker": "林紹偉品牌經理",
+        "speakerTitle": "SolutionMakers Taiwan 智造世務所",
+        "photo": "/images/courseInfo/6460e6db-9be9-4bcf-b624-456c62d58d77.png",
+        "createdAt": "2017-05-31T00:12:31.018Z",
+        "updatedAt": "2017-05-31T00:12:31.018Z",
+        "id": 7,
+        "order": 7
+      }
+    ],
+    "courselist": [],
+    "faq": [
+      {
+        "author": 2,
+        "title": "Q1.為什麼會有資訊種子培訓計畫的出現？",
+        "content": "<p><span style=\"font-size: 18px; color: rgb(0, 0, 0);\">　　資訊種子培訓計劃是由新北市電腦商業同業公會所籌劃，目的是為了替台灣資訊產業界培育新一代的多元人才，希望能藉著公會現有的豐富業界資源，包括具寶貴實務經驗的講師以及直接到業界實習的機會等，讓有興趣投入IT產業的青年學子，能透過公會的培訓，成為業界所需要的資訊精英人才，完成一年培訓計劃的學員將獲頒「資訊科技菁英人才結業證書」。</span></p><p><span style=\"font-size: 18px; color: rgb(0, 0, 0);\">　　此培訓計劃也將讓你能藉由接觸多元人才彼此相互學習；透過專案實作激發自己的潛力；經歷海外參訪連結夥伴情誼開拓視野，找到未來創業就業夥伴；走訪企業實地了解連結學界與業界。</span></p>",
+        "status": "P",
+        "createdAt": "2017-05-30T19:16:50.354Z",
+        "updatedAt": "2017-05-31T18:27:15.765Z",
+        "id": 1,
+        "order": 1
+      },
+      {
+        "author": 2,
+        "title": "Q2.加入資訊種子，我能獲得哪些資源？",
+        "content": "\r\n            \r\n                <p class=\"MsoNormal\" style=\"mso-pagination:widow-orphan\"><span style=\"font-size: 18px; font-family: &quot;Microsoft JhengHei&quot;; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0);\">　　公會提供給資訊種子培訓計劃的資源相當多，而成為資種的一員，能獲得以下的資源：</span><span lang=\"EN-US\" style=\"font-family:&quot;Microsoft JhengHei&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;\r\nmso-font-kerning:0pt\"><o:p></o:p></span></p><p class=\"MsoNormal\" style=\"mso-pagination:widow-orphan\"><span style=\"font-size: 18px; font-family: &quot;Microsoft JhengHei&quot;; color: rgb(106, 168, 79); background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">機構資源：</span><span style=\"font-size: 18px; font-family: &quot;Microsoft JhengHei&quot;; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0);\">新北市電腦商業同業公會所有理監事與會員。</span><span lang=\"EN-US\" style=\"font-family:&quot;Microsoft JhengHei&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;\r\nmso-font-kerning:0pt\"><o:p></o:p></span></p><p class=\"MsoNormal\" style=\"mso-pagination:widow-orphan\"><span style=\"font-size: 18px; font-family: &quot;Microsoft JhengHei&quot;; color: rgb(106, 168, 79); background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">人脈資源：</span><span style=\"font-size: 18px; font-family: &quot;Microsoft JhengHei&quot;; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0);\">同屆夥伴，歷屆學員（校友會），講師。</span><span lang=\"EN-US\" style=\"font-family:&quot;Microsoft JhengHei&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;\r\nmso-font-kerning:0pt\"><o:p></o:p></span></p><p class=\"MsoNormal\" style=\"mso-pagination:widow-orphan\"><span style=\"font-size: 18px; font-family: &quot;Microsoft JhengHei&quot;; color: rgb(106, 168, 79); background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">就業資源：</span><span style=\"font-size: 18px; font-family: &quot;Microsoft JhengHei&quot;; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0);\">講師、歷屆學長姐及公會理監事所提供的相關就業或實習資源。</span><span lang=\"EN-US\" style=\"font-family:&quot;Microsoft JhengHei&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;\r\nmso-font-kerning:0pt\"><o:p></o:p></span></p><p class=\"MsoNormal\" style=\"mso-pagination:widow-orphan\"><span style=\"font-size: 18px; font-family: &quot;Microsoft JhengHei&quot;; color: rgb(106, 168, 79); background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">課程資源：</span><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 18px; font-family: &quot;Microsoft JhengHei&quot;; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">二十堂專業經理級以上的講師面授課程，課程面向多元，包含自我成長、資訊產</span></span><span style=\"font-family: &quot;Microsoft JhengHei&quot;; font-size: 18px; color: rgb(0, 0, 0);\">業、團隊激勵、生涯規劃、業界動態甚至法律實務等。</span></p><p class=\"MsoNormal\" style=\"mso-pagination:widow-orphan\"><span style=\"font-size: 18px; font-family: &quot;Microsoft JhengHei&quot;; color: rgb(106, 168, 79); background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">專案資源：</span><span style=\"font-size: 18px; font-family: &quot;Microsoft JhengHei&quot;; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0);\">專案不論對內或對外，都是學習的機會與自我成長的契機。</span><span lang=\"EN-US\" style=\"font-family:&quot;Microsoft JhengHei&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;\r\nmso-font-kerning:0pt\"><o:p></o:p></span></p><p class=\"MsoNormal\" style=\"mso-pagination:widow-orphan\"><span style=\"font-size: 18px; font-family: &quot;Microsoft JhengHei&quot;; color: rgb(106, 168, 79); background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">參訪資源：</span><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 18px; font-family: &quot;Microsoft JhengHei&quot;; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\">獨家企業參訪與海外參訪機會。</span><span lang=\"EN-US\" style=\"font-family:&quot;Microsoft JhengHei&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;\r\nmso-font-kerning:0pt\"><o:p></o:p></span></span></p><p class=\"MsoNormal\" style=\"mso-pagination:widow-orphan\"><span lang=\"EN-US\" style=\"font-family: &quot;Microsoft JhengHei&quot;; color: rgb(0, 0, 0);\"><span style=\"font-size: 18px;\">&nbsp;</span><o:p></o:p></span></p><p class=\"MsoNormal\" style=\"mso-pagination:widow-orphan\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 18px;\">\r\n</span><span style=\"font-size: 18px;\">\r\n</span><span style=\"font-size: 18px;\">\r\n</span><span style=\"font-size: 18px;\">\r\n</span><span style=\"font-size: 18px;\">\r\n</span><span style=\"font-size: 18px;\">\r\n</span><span style=\"font-size: 18px;\">\r\n</span><!--[if gte mso 9]><xml>\r\n <o:OfficeDocumentSettings>\r\n  <o:AllowPNG></o:AllowPNG>\r\n  <o:PixelsPerInch>96</o:PixelsPerInch>\r\n </o:OfficeDocumentSettings>\r\n</xml><![endif]--><span style=\"font-size: 18px;\">\r\n</span><span style=\"font-size: 18px;\">\r\n</span><!--[if gte mso 9]><xml>\r\n <w:WordDocument>\r\n  <w:View>Normal</w:View>\r\n  <w:Zoom>0</w:Zoom>\r\n  <w:TrackMoves></w:TrackMoves>\r\n  <w:TrackFormatting></w:TrackFormatting>\r\n  <w:PunctuationKerning></w:PunctuationKerning>\r\n  <w:DrawingGridVerticalSpacing>10 pt</w:DrawingGridVerticalSpacing>\r\n  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>\r\n  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>\r\n  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas>\r\n  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>\r\n  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>\r\n  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>\r\n  <w:DoNotPromoteQF></w:DoNotPromoteQF>\r\n  <w:LidThemeOther>EN-US</w:LidThemeOther>\r\n  <w:LidThemeAsian>ZH-TW</w:LidThemeAsian>\r\n  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>\r\n  <w:Compatibility>\r\n   <w:SpaceForUL></w:SpaceForUL>\r\n   <w:BalanceSingleByteDoubleByteWidth></w:BalanceSingleByteDoubleByteWidth>\r\n   <w:DoNotLeaveBackslashAlone></w:DoNotLeaveBackslashAlone>\r\n   <w:ULTrailSpace></w:ULTrailSpace>\r\n   <w:DoNotExpandShiftReturn></w:DoNotExpandShiftReturn>\r\n   <w:AdjustLineHeightInTable></w:AdjustLineHeightInTable>\r\n   <w:BreakWrappedTables></w:BreakWrappedTables>\r\n   <w:SnapToGridInCell></w:SnapToGridInCell>\r\n   <w:WrapTextWithPunct></w:WrapTextWithPunct>\r\n   <w:UseAsianBreakRules></w:UseAsianBreakRules>\r\n   <w:DontGrowAutofit></w:DontGrowAutofit>\r\n   <w:SplitPgBreakAndParaMark></w:SplitPgBreakAndParaMark>\r\n   <w:EnableOpenTypeKerning></w:EnableOpenTypeKerning>\r\n   <w:DontFlipMirrorIndents></w:DontFlipMirrorIndents>\r\n   <w:OverrideTableStyleHps></w:OverrideTableStyleHps>\r\n   <w:UseFELayout></w:UseFELayout>\r\n  </w:Compatibility>\r\n  <m:mathPr>\r\n   <m:mathFont m:val=\"Cambria Math\"></m:mathFont>\r\n   <m:brkBin m:val=\"before\"></m:brkBin>\r\n   <m:brkBinSub m:val=\"&#45;-\"></m:brkBinSub>\r\n   <m:smallFrac m:val=\"off\"></m:smallFrac>\r\n   <m:dispDef></m:dispDef>\r\n   <m:lMargin m:val=\"0\"></m:lMargin>\r\n   <m:rMargin m:val=\"0\"></m:rMargin>\r\n   <m:defJc m:val=\"centerGroup\"></m:defJc>\r\n   <m:wrapIndent m:val=\"1440\"></m:wrapIndent>\r\n   <m:intLim m:val=\"subSup\"></m:intLim>\r\n   <m:naryLim m:val=\"undOvr\"></m:naryLim>\r\n  </m:mathPr></w:WordDocument>\r\n</xml><![endif]--><!--[if gte mso 9]><xml>\r\n <w:LatentStyles DefLockedState=\"false\" DefUnhideWhenUsed=\"false\"\r\n  DefSemiHidden=\"false\" DefQFormat=\"false\" DefPriority=\"99\"\r\n  LatentStyleCount=\"382\">\r\n  <w:LsdException Locked=\"false\" Priority=\"0\" QFormat=\"true\" Name=\"Normal\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 7\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 8\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"heading 9\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 7\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 8\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index 9\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 7\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 8\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"toc 9\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Normal Indent\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"footnote text\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"annotation text\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"header\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"footer\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"index heading\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"35\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"caption\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"table of figures\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"envelope address\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"envelope return\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"footnote reference\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"annotation reference\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"line number\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"page number\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"endnote reference\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"endnote text\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"table of authorities\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"macro\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"toa heading\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Bullet\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Number\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Bullet 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Bullet 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Bullet 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Bullet 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Number 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Number 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Number 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Number 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"10\" QFormat=\"true\" Name=\"Title\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Closing\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Signature\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"1\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"Default Paragraph Font\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text Indent\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Continue\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Continue 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Continue 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Continue 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"List Continue 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Message Header\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"11\" QFormat=\"true\" Name=\"Subtitle\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Salutation\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Date\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text First Indent\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text First Indent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Heading\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text Indent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Body Text Indent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Block Text\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Hyperlink\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"FollowedHyperlink\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"22\" QFormat=\"true\" Name=\"Strong\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"20\" QFormat=\"true\" Name=\"Emphasis\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Document Map\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Plain Text\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"E-mail Signature\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Top of Form\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Bottom of Form\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Normal (Web)\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Acronym\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Address\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Cite\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Code\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Definition\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Keyboard\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Preformatted\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Sample\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Typewriter\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"HTML Variable\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Normal Table\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"annotation subject\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"No List\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Outline List 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Outline List 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Outline List 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Simple 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Simple 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Simple 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Classic 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Classic 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Classic 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Classic 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Colorful 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Colorful 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Colorful 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Columns 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Columns 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Columns 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Columns 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Columns 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 7\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Grid 8\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 7\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table List 8\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table 3D effects 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table 3D effects 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table 3D effects 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Contemporary\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Elegant\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Professional\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Subtle 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Subtle 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Web 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Web 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Web 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Balloon Text\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"Table Grid\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Table Theme\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 7\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 8\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Note Level 9\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" Name=\"Placeholder Text\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"1\" QFormat=\"true\" Name=\"No Spacing\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" Name=\"Revision\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"34\" QFormat=\"true\"\r\n   Name=\"List Paragraph\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"29\" QFormat=\"true\" Name=\"Quote\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"30\" QFormat=\"true\"\r\n   Name=\"Intense Quote\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" Name=\"Light Shading Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Name=\"Light List Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" Name=\"Light Grid Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Name=\"Medium Shading 1 Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Name=\"Medium Shading 2 Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" Name=\"Medium List 1 Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Name=\"Medium List 2 Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" Name=\"Medium Grid 1 Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Name=\"Medium Grid 2 Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Name=\"Medium Grid 3 Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Name=\"Dark List Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Name=\"Colorful Shading Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" Name=\"Colorful List Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Name=\"Colorful Grid Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"19\" QFormat=\"true\"\r\n   Name=\"Subtle Emphasis\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"21\" QFormat=\"true\"\r\n   Name=\"Intense Emphasis\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"31\" QFormat=\"true\"\r\n   Name=\"Subtle Reference\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"32\" QFormat=\"true\"\r\n   Name=\"Intense Reference\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"33\" QFormat=\"true\" Name=\"Book Title\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"37\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" Name=\"Bibliography\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" SemiHidden=\"true\"\r\n   UnhideWhenUsed=\"true\" QFormat=\"true\" Name=\"TOC Heading\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"41\" Name=\"Plain Table 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"42\" Name=\"Plain Table 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"43\" Name=\"Plain Table 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"44\" Name=\"Plain Table 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"45\" Name=\"Plain Table 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"40\" Name=\"Grid Table Light\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\" Name=\"Grid Table 1 Light\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\" Name=\"Grid Table 6 Colorful\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\" Name=\"Grid Table 7 Colorful\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"Grid Table 1 Light Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"Grid Table 2 Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"Grid Table 3 Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"Grid Table 4 Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"Grid Table 5 Dark Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"Grid Table 6 Colorful Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"Grid Table 7 Colorful Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\" Name=\"List Table 1 Light\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\" Name=\"List Table 6 Colorful\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\" Name=\"List Table 7 Colorful\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 1\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 2\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 3\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 4\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 5\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"46\"\r\n   Name=\"List Table 1 Light Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"47\" Name=\"List Table 2 Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"48\" Name=\"List Table 3 Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"49\" Name=\"List Table 4 Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"50\" Name=\"List Table 5 Dark Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"51\"\r\n   Name=\"List Table 6 Colorful Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" Priority=\"52\"\r\n   Name=\"List Table 7 Colorful Accent 6\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Mention\"></w:LsdException>\r\n  <w:LsdException Locked=\"false\" SemiHidden=\"true\" UnhideWhenUsed=\"true\"\r\n   Name=\"Smart Hyperlink\"></w:LsdException>\r\n </w:LatentStyles>\r\n</xml><![endif]--><span style=\"font-size: 18px;\">\r\n</span><style><span style=\"font-size: 18px;\">\r\n&lt;!--\r\n /* Font Definitions */\r\n@font-face\r\n\t{font-family:新細明���;\r\n\tmso-font-charset:136;\r\n\tmso-generic-font-family:auto;\r\n\tmso-font-pitch:variable;\r\n\tmso-font-signature:-1610611969 684719354 22 0 1048577 0;}\r\n@font-face\r\n\t{font-family:\"Cambria Math\";\r\n\tpanose-1:2 4 5 3 5 4 6 3 2 4;\r\n\tmso-font-charset:1;\r\n\tmso-generic-font-family:roman;\r\n\tmso-font-format:other;\r\n\tmso-font-pitch:variable;\r\n\tmso-font-signature:0 0 0 0 0 0;}\r\n@font-face\r\n\t{font-family:\"\\@新細明體\";\r\n\tmso-font-charset:136;\r\n\tmso-generic-font-family:auto;\r\n\tmso-font-pitch:variable;\r\n\tmso-font-signature:-1610611969 684719354 22 0 1048577 0;}\r\n@font-face\r\n\t{font-family:Calibri;\r\n\tpanose-1:2 15 5 2 2 2 4 3 2 4;\r\n\tmso-font-charset:0;\r\n\tmso-generic-font-family:auto;\r\n\tmso-font-pitch:variable;\r\n\tmso-font-signature:-536870145 1073786111 1 0 415 0;}\r\n@font-face\r\n\t{font-family:\"Microsoft JhengHei\";\r\n\tpanose-1:2 11 6 4 3 5 4 4 2 4;\r\n\tmso-font-charset:136;\r\n\tmso-generic-font-family:auto;\r\n\tmso-font-pitch:variable;\r\n\tmso-font-signature:135 680476672 22 0 1048585 0;}\r\n@font-face\r\n\t{font-family:\"\\@Microsoft JhengHei\";\r\n\tmso-font-charset:136;\r\n\tmso-generic-font-family:auto;\r\n\tmso-font-pitch:variable;\r\n\tmso-font-signature:135 680476672 22 0 1048585 0;}\r\n /* Style Definitions */\r\np.MsoNormal, li.MsoNormal, div.MsoNormal\r\n\t{mso-style-unhide:no;\r\n\tmso-style-qformat:yes;\r\n\tmso-style-parent:\"\";\r\n\tmargin:0cm;\r\n\tmargin-bottom:.0001pt;\r\n\tmso-pagination:none;\r\n\tfont-size:12.0pt;\r\n\tfont-family:Calibri;\r\n\tmso-ascii-font-family:Calibri;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-fareast-font-family:新細明體;\r\n\tmso-fareast-theme-font:minor-fareast;\r\n\tmso-hansi-font-family:Calibri;\r\n\tmso-hansi-theme-font:minor-latin;\r\n\tmso-bidi-font-family:\"Times New Roman\";\r\n\tmso-bidi-theme-font:minor-bidi;\r\n\tmso-font-kerning:1.0pt;}\r\n.MsoChpDefault\r\n\t{mso-style-type:export-only;\r\n\tmso-default-props:yes;\r\n\tfont-family:Calibri;\r\n\tmso-bidi-font-family:\"Times New Roman\";\r\n\tmso-bidi-theme-font:minor-bidi;}\r\n /* Page Definitions */\r\n@page\r\n\t{mso-page-border-surround-header:no;\r\n\tmso-page-border-surround-footer:no;}\r\n@page WordSection1\r\n\t{size:612.0pt 792.0pt;\r\n\tmargin:72.0pt 90.0pt 72.0pt 90.0pt;\r\n\tmso-header-margin:36.0pt;\r\n\tmso-footer-margin:36.0pt;\r\n\tmso-paper-source:0;}\r\ndiv.WordSection1\r\n\t{page:WordSection1;}\r\n--&gt;\r\n</span></style><span style=\"font-size: 18px;\">\r\n</span><!--[if gte mso 10]>\r\n<style>\r\n /* Style Definitions */\r\ntable.MsoNormalTable\r\n\t{mso-style-name:表格內文;\r\n\tmso-tstyle-rowband-size:0;\r\n\tmso-tstyle-colband-size:0;\r\n\tmso-style-noshow:yes;\r\n\tmso-style-priority:99;\r\n\tmso-style-parent:\"\";\r\n\tmso-padding-alt:0cm 5.4pt 0cm 5.4pt;\r\n\tmso-para-margin:0cm;\r\n\tmso-para-margin-bottom:.0001pt;\r\n\tmso-pagination:widow-orphan;\r\n\tfont-size:12.0pt;\r\n\tfont-family:Calibri;\r\n\tmso-ascii-font-family:Calibri;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-hansi-font-family:Calibri;\r\n\tmso-hansi-theme-font:minor-latin;\r\n\tmso-font-kerning:1.0pt;}\r\n</style>\r\n<![endif]--><span style=\"font-size: 18px;\">\r\n\r\n\r\n\r\n</span><!--StartFragment--><span style=\"font-size: 18px;\">\r\n\r\n</span><span style=\"font-size: 18px;\">\r\n\r\n</span><span style=\"font-size: 18px;\">\r\n\r\n</span><span style=\"font-size: 18px;\">\r\n\r\n</span><span style=\"font-size: 18px;\">\r\n\r\n</span><span style=\"font-size: 18px;\">\r\n\r\n</span><span style=\"font-size: 18px;\">\r\n\r\n</span><span style=\"font-size: 18px;\">\r\n\r\n</span><span style=\"font-size: 18px;\">\r\n\r\n</span><span style=\"font-size: 18px;\">\r\n\r\n</span><span style=\"font-size: 18px;\">\r\n\r\n</span><!--EndFragment--></span></p><p class=\"MsoNormal\" style=\"mso-pagination:widow-orphan\"><span style=\"font-size: 18px; font-family: &quot;Microsoft JhengHei&quot;; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(0, 0, 0);\">雖然資源很多，但機會還是要自己積極地把握與爭取！</span><span lang=\"EN-US\" style=\"font-family:&quot;Microsoft JhengHei&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;\r\nmso-font-kerning:0pt\"><o:p></o:p></span></p><style>\r\n<!--\r\n /* Font Definitions */\r\n@font-face\r\n\t{font-family:新細明體;\r\n\tmso-font-charset:136;\r\n\tmso-generic-font-family:auto;\r\n\tmso-font-pitch:variable;\r\n\tmso-font-signature:-1610611969 684719354 22 0 1048577 0;}\r\n@font-face\r\n\t{font-family:\"Cambria Math\";\r\n\tpanose-1:2 4 5 3 5 4 6 3 2 4;\r\n\tmso-font-charset:1;\r\n\tmso-generic-font-family:roman;\r\n\tmso-font-format:other;\r\n\tmso-font-pitch:variable;\r\n\tmso-font-signature:0 0 0 0 0 0;}\r\n@font-face\r\n\t{font-family:\"\\@新細明體\";\r\n\tmso-font-charset:136;\r\n\tmso-generic-font-family:auto;\r\n\tmso-font-pitch:variable;\r\n\tmso-font-signature:-1610611969 684719354 22 0 1048577 0;}\r\n@font-face\r\n\t{font-family:Calibri;\r\n\tpanose-1:2 15 5 2 2 2 4 3 2 4;\r\n\tmso-font-charset:0;\r\n\tmso-generic-font-family:auto;\r\n\tmso-font-pitch:variable;\r\n\tmso-font-signature:-536870145 1073786111 1 0 415 0;}\r\n@font-face\r\n\t{font-family:\"Microsoft JhengHei\";\r\n\tpanose-1:2 11 6 4 3 5 4 4 2 4;\r\n\tmso-font-charset:136;\r\n\tmso-generic-font-family:auto;\r\n\tmso-font-pitch:variable;\r\n\tmso-font-signature:135 680476672 22 0 1048585 0;}\r\n@font-face\r\n\t{font-family:\"\\@Microsoft JhengHei\";\r\n\tmso-font-charset:136;\r\n\tmso-generic-font-family:auto;\r\n\tmso-font-pitch:variable;\r\n\tmso-font-signature:135 680476672 22 0 1048585 0;}\r\n /* Style Definitions */\r\np.MsoNormal, li.MsoNormal, div.MsoNormal\r\n\t{mso-style-unhide:no;\r\n\tmso-style-qformat:yes;\r\n\tmso-style-parent:\"\";\r\n\tmargin:0cm;\r\n\tmargin-bottom:.0001pt;\r\n\tmso-pagination:none;\r\n\tfont-size:12.0pt;\r\n\tfont-family:Calibri;\r\n\tmso-ascii-font-family:Calibri;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-fareast-font-family:新細明體;\r\n\tmso-fareast-theme-font:minor-fareast;\r\n\tmso-hansi-font-family:Calibri;\r\n\tmso-hansi-theme-font:minor-latin;\r\n\tmso-bidi-font-family:\"Times New Roman\";\r\n\tmso-bidi-theme-font:minor-bidi;\r\n\tmso-font-kerning:1.0pt;}\r\n.MsoChpDefault\r\n\t{mso-style-type:export-only;\r\n\tmso-default-props:yes;\r\n\tfont-family:Calibri;\r\n\tmso-bidi-font-family:\"Times New Roman\";\r\n\tmso-bidi-theme-font:minor-bidi;}\r\n /* Page Definitions */\r\n@page\r\n\t{mso-page-border-surround-header:no;\r\n\tmso-page-border-surround-footer:no;}\r\n@page WordSection1\r\n\t{size:595.0pt 842.0pt;\r\n\tmargin:72.0pt 90.0pt 72.0pt 90.0pt;\r\n\tmso-header-margin:42.55pt;\r\n\tmso-footer-margin:49.6pt;\r\n\tmso-paper-source:0;\r\n\tlayout-grid:20.0pt;}\r\ndiv.WordSection1\r\n\t{page:WordSection1;}\r\n-->\r\n</style>\r\n            \r\n        ",
+        "status": "P",
+        "createdAt": "2017-05-30T19:19:36.945Z",
+        "updatedAt": "2017-05-30T19:21:31.126Z",
+        "id": 2,
+        "order": 2
+      },
+      {
+        "author": 2,
+        "title": "Q3.在資訊種子能培養哪些軟、硬實力呢？",
+        "content": "\r\n            \r\n                \r\n            \r\n                <span id=\"docs-internal-guid-3eb88f64-5acf-1385-a335-2e6ad8f448b2\" style=\"font-family: &quot;Helvetica Neue&quot;;\"><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);\">在資種你將會學習以下三件事：</span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt;\"><span style=\"color: rgb(0, 0, 0); font-size: 18px; vertical-align: baseline; white-space: pre-wrap;\">第一，</span><span style=\"color: rgb(107, 165, 74);\"><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap;\">學</span><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap;\">做人</span></span><span style=\"color: rgb(0, 0, 0); font-size: 18px; vertical-align: baseline; white-space: pre-wrap;\">。</span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);\">　　成為資種學員後，你將與不同領域的學員互相交流，感受各領域學員不同的思考方式，學習跳脫框架思考，進一步培養與夥伴的溝通協調能力，除此之外，在這一年的培訓計劃中，透過找到自己的定位與發揮自己的專長影響力的過程中，你將發掘自己更多潛力，也更加認識自己。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt;\"><span style=\"color: rgb(0, 0, 0); font-size: 18px; vertical-align: baseline; white-space: pre-wrap;\">第二，</span><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap; color: rgb(107, 165, 74);\">學做事</span><span style=\"color: rgb(0, 0, 0); font-size: 18px; vertical-align: baseline; white-space: pre-wrap;\">。</span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);\">　　你將在專案執行或培訓過程，學習專案規劃的能力、企劃書撰寫、向長官提案的技巧、實務的應用等，更重要的是，你會從中學習到產業界的生態，學會該用什麼態度去面對社會與職場，不論如何，積極與正面的盡力做事，終有所獲。</span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt;\"><span style=\"color: rgb(0, 0, 0); font-size: 18px; vertical-align: baseline; white-space: pre-wrap;\">第三，</span><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap; color: rgb(107, 165, 74);\">學知識</span><span style=\"color: rgb(0, 0, 0); font-size: 18px; vertical-align: baseline; white-space: pre-wrap;\">。</span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);\">　　進入資種，你將獲得來自產官學界的講師所闡述的知識課程，在各企業講師身上，會了解產業的新動態以及講師的人生經驗。另外，由於資種即將邁入第十五屆，過去已累積許多不同背景的優秀學長姐，當我們有任何問題都能向各領域學長姐請益，從中獲得新知。</span></p></span>\r\n            \r\n        \r\n            \r\n        \r\n            \r\n        ",
+        "status": "P",
+        "createdAt": "2017-05-30T19:23:39.351Z",
+        "updatedAt": "2017-05-31T17:51:28.748Z",
+        "id": 3,
+        "order": 3
+      },
+      {
+        "author": 2,
+        "title": "Q4.培訓計畫為期多久呢？",
+        "content": "\r\n            \r\n                <span id=\"docs-internal-guid-3eb88f64-5ad0-badb-640e-a93338b9a96f\" style=\"color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;;\"><p dir=\"ltr\" style=\"line-height:1.38;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap;\">第十五屆資訊種子培訓計畫時間</span><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap;\">為期一整年</span><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap;\">，從 2017年九月 至 2018年八月止。</span></p></span>\r\n            \r\n        \r\n            \r\n        ",
+        "status": "P",
+        "createdAt": "2017-05-30T19:24:24.657Z",
+        "updatedAt": "2017-05-31T17:51:40.377Z",
+        "id": 4,
+        "order": 4
+      },
+      {
+        "author": 2,
+        "title": "Q5.課程時間會在何時、何地舉行呢？",
+        "content": "<span style=\"color: rgb(0, 0, 0);\">\r\n            \r\n                <span style=\"font-size: 18px;\">資訊種子培訓計劃總共有20堂專業課程，時間安排在週六下午，確切日期將於始業式時公布，上課地點則在新北市電腦商業同業公會（台北市中山區民權西路19號9樓）。\r\n實際狀況會因應當屆課務團隊安排有所調整。</span>\r\n\r\n            \r\n        </span>",
+        "status": "P",
+        "createdAt": "2017-05-30T19:25:32.244Z",
+        "updatedAt": "2017-05-30T19:27:16.251Z",
+        "id": 5,
+        "order": 5
+      },
+      {
+        "author": 2,
+        "title": "Q6.專案的內容是什麼？需要投入許多時間嗎？",
+        "content": "<span id=\"docs-internal-guid-3eb88f64-5ad2-5aa5-a848-5d741e02b9af\" style=\"font-family: &quot;Helvetica Neue&quot;;\"><p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);\">　　十四屆資訊種子專案內容分為：</span><span style=\"font-size: 18px; color: rgb(106, 168, 79); vertical-align: baseline; white-space: pre-wrap;\">TUV</span><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);\">(Top Up the Value)、</span><span style=\"font-size: 18px; color: rgb(106, 168, 79); vertical-align: baseline; white-space: pre-wrap;\">春酒</span><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);\">、</span><span style=\"font-size: 18px; color: rgb(106, 168, 79); vertical-align: baseline; white-space: pre-wrap;\">職涯發展</span><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);\">、</span><span style=\"font-size: 18px; color: rgb(106, 168, 79); vertical-align: baseline; white-space: pre-wrap;\">招生</span><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);\">、</span><span style=\"font-size: 18px; color: rgb(106, 168, 79); vertical-align: baseline; white-space: pre-wrap;\">海外參訪</span><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);\">、</span><span style=\"font-size: 18px; color: rgb(106, 168, 79); vertical-align: baseline; white-space: pre-wrap;\">結業</span><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);\">等六大專案。</span></p><p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);\">　　而每屆專案內</span><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);\">容會有所調整，實際專案內容將依各屆安排而定。</span></p></span><span style=\"font-size: 18px; color: rgb(0, 0, 0);\">　　每個專案從規劃到執行皆由全體學員共同參與完成，執行專案需要注意很多面向，也需相當的時間投入，只要能妥善運用個人時間管理的能力將能全心投入各個專案，且課務（第十四屆留任幹部）與公會長輩會從旁給予建議與協助，讓學員能從參與專案中學習企業運作模式及主管間的溝通技巧。</span>",
+        "status": "P",
+        "createdAt": "2017-05-30T19:26:53.049Z",
+        "updatedAt": "2017-05-31T18:26:16.976Z",
+        "id": 6,
+        "order": 6
+      },
+      {
+        "author": 2,
+        "title": "Q7.請問我需要具備何種資格呢？",
+        "content": "\r\n            \r\n                \r\n            \r\n                <span id=\"docs-internal-guid-3eb88f64-5ad4-3dfb-355c-3cf1e8075414\" style=\"font-family: &quot;Helvetica Neue&quot;;\"><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt;\"><span style=\"color: rgb(0, 0, 0);\"><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap;\">資訊種子培訓計畫招募對象為升大三至升碩一的學生。</span><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap;\">　　</span></span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt;\"><span style=\"color: rgb(0, 0, 0); font-size: 18px; vertical-align: baseline; white-space: pre-wrap;\"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style=\"color: rgb(107, 165, 74);\"><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap;\">對於科系</span><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap;\">沒有任何限制</span></span><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap;\"><span style=\"color: rgb(107, 165, 74);\">。</span><span style=\"color: rgb(0, 0, 0);\">資訊種子培訓計劃廣召來自不同科系、背景的學生，使資種學員能藉由與來自多元領域的同儕互動中合作、學習並成長。</span></span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);\">　　資訊相關科系學生能更連結其所學專長與業界實務，而非資訊背景的學生也可藉機了解資訊環境。除此之外，資訊種子培訓計畫所安排的課程面向相當多元化，包含自我成長、資訊產業、團隊激勵、生涯規劃、業界動態甚至法律實務等課程，只要虛心聆聽與反思內化，並把握課堂上與業師們直接互動、請益的時刻，相信每堂課都是大開眼界並提升自己能力的好機會。</span></p></span>\r\n            \r\n        \r\n            \r\n        \r\n            \r\n        ",
+        "status": "P",
+        "createdAt": "2017-05-30T19:28:28.846Z",
+        "updatedAt": "2017-05-31T17:52:03.721Z",
+        "id": 7,
+        "order": 7
+      },
+      {
+        "author": 2,
+        "title": "Q8.請問沒有工作或社團經驗也可以報名嗎？",
+        "content": "\r\n            \r\n                <span style=\"font-size: 18px; color: rgb(0, 0, 0);\">可以！只要你樂於分享、積極進取，都歡迎你加入資種的大家庭哦！</span>\r\n            \r\n        ",
+        "status": "P",
+        "createdAt": "2017-05-30T19:29:28.121Z",
+        "updatedAt": "2017-05-31T18:24:28.867Z",
+        "id": 8,
+        "order": 8
+      },
+      {
+        "author": 2,
+        "title": "Q9.如何才能成為資訊種子培訓計劃的一員？",
+        "content": "\r\n            \r\n                \r\n            \r\n                \r\n            \r\n                <span id=\"docs-internal-guid-3eb88f64-5ad5-ec70-02e3-cf0627cd5da4\" style=\"font-family: &quot;Helvetica Neue&quot;;\"><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);\">本次甄選流程分為兩階段：</span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt;\"><span style=\"color: rgb(0, 0, 0); font-size: 18px; vertical-align: baseline; white-space: pre-wrap;\">【</span><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap; color: rgb(107, 165, 74);\">第一階段－初審</span><span style=\"color: rgb(0, 0, 0); font-size: 18px; vertical-align: baseline; white-space: pre-wrap;\">】</span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);\">上網填寫報名資料後，撰寫報名表及自傳，將初審所需之所有資料檔案以規定格式上傳至官網，並於指定時間內完成繳費。 &nbsp;&nbsp;&nbsp;</span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt;\"><span style=\"color: rgb(0, 0, 0); font-size: 18px; vertical-align: baseline; white-space: pre-wrap;\">【</span><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap; color: rgb(107, 165, 74);\">第二階段－複審</span><span style=\"color: rgb(0, 0, 0); font-size: 18px; vertical-align: baseline; white-space: pre-wrap;\">】</span></p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:0pt;\"><span style=\"font-size: 18px; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);\">若您通過第一階段之初審，則將進入第二階段的複審，將採取筆試與面試的形式進行。</span></p></span>\r\n            \r\n        \r\n            \r\n        \r\n            \r\n        \r\n            \r\n        ",
+        "status": "P",
+        "createdAt": "2017-05-30T19:30:00.877Z",
+        "updatedAt": "2017-05-31T17:52:36.887Z",
+        "id": 9,
+        "order": 9
+      },
+      {
+        "author": 2,
+        "title": "Q10.我去年報名時落選了，今年可否再次申請呢？",
+        "content": "<span style=\"font-size: 18px; color: rgb(0, 0, 0);\">可以！機會留給永不放棄的人，歡迎你再次報名，挑戰自我！</span>",
+        "status": "P",
+        "createdAt": "2017-05-30T19:32:00.747Z",
+        "updatedAt": "2017-05-31T18:24:11.255Z",
+        "id": 10,
+        "order": 10
+      }
+    ],
+    "instructor": [],
+    "memberlist": [],
+    "news": [],
+    "overseavisit": [],
+    "project": [],
+    "regfile": [],
+    "reginfo": [
+      {
+        "author": 2,
+        "title": "- 報名資格 -",
+        "content": "升大三至升碩一之全台大專院校學生，不限科系",
+        "status": "P",
+        "createdAt": "2017-05-30T19:09:47.325Z",
+        "updatedAt": "2017-05-30T19:10:30.018Z",
+        "id": 1
+      },
+      {
+        "author": 2,
+        "title": "- 報名時間 -",
+        "content": "2017/6/1(四) 至 2017/7/7(五)\r\n",
+        "status": "P",
+        "createdAt": "2017-05-30T19:11:08.595Z",
+        "updatedAt": "2017-05-30T19:11:08.596Z",
+        "id": 2
+      }
+    ],
+    "sharing": [
+      {
+        "author": 2,
+        "title": "蛻變，發掘自我價值",
+        "content": "\r\n            \r\n                \r\n            \r\n                \r\n            \r\n                \r\n            \r\n                <p><span style=\"font-weight: bold; font-size: 18px;\">- 兩度跨越門檻的種子 -</span></p><p><span style=\"font-size: 18px;\">大學是我求學的終程點，當我升到大三，心裡已下定決心不走公務員這條路，但我不知道未來想要做什麼，若踏上職場我能往什麼專業或產業領域去呢？我開始思索自己的下一步，心想</span><span style=\"font-weight: bold; font-size: 18px;\">「與其停留在原地不如往前闖！」</span><span style=\"font-size: 18px;\">後來聽聞朋友推薦資訊種子，培訓內容也很吸引我，就決定試試看！</span></p><p><span style=\"font-size: 18px;\"> 其實我是投了兩年才順利加入資訊種子，後來的我超級感謝自己沒有放棄機會再次嘗試。當初的我選擇資種是為了想要變強，增進自我專業能力，比較專注在自我成長的追求，到最後卻發現得到的成長收穫比想像中的多很多！ </span></p><p><span style=\"font-size: 18px;\">透過二十堂課程的薰陶，讓我更加瞭解產業趨勢以及探索自我興趣，而多元的六大專案實戰訓練，也讓我學習如何從零到一，再從一變成一百，從中更累積團隊合作經驗與溝通協調能力。</span><span style=\"font-weight: bold; font-size: 18px;\">「在資種不怕沒有機會嘗試，只怕你不敢抓住機會！」</span><span style=\"font-size: 18px;\">最重要的是，認識到許多優秀的夥伴，並且大家共同努力邁進、扶持再一起前進！ </span></p><p><span style=\"font-weight: bold; font-size: 18px;\">- 努力成為茁壯的木 -</span></p><p><span style=\"font-size: 18px;\">完成一年的培訓後，深感自己的成長與改變，非常認同也很喜歡資種，一開始我是一個比較沒有自信的人，雖然滿細心但也比較沒有自己的一套做事方式。在資種的夥伴氛圍下，我變得更敞開心胸，勇於表達內心的想法，而在專案實作上，學習更有效率的做事方法以及培養有邏輯的思考脈絡。「欲得到更多，付出得更多」，最後我決定參選下屆課務，也如願地承擔這份傳承的責任。 </span></p><p><span style=\"font-size: 18px;\">擔任課務就像參加團體馬拉松，不同的是要帶領著 35 位學員一同前進，儘管自己也曾是培訓的一員，但站在不同的角色，必須擁有更高的角度看待人事物，提出更有效的見解與反饋，若能付出自己一點心力並得以看見他人的成長，就算犧牲再多時間也值得，</span><span style=\"font-weight: bold; font-size: 18px;\">「我在資種更加認識自己，也找到自己的角色與價值！」 </span></p><p><span style=\"font-weight: bold; font-size: 18px;\">- 你，準備好了嗎？-</span></p><p><span style=\"font-size: 18px;\">即將面對職涯十字路口的你，也許同樣有著期待與焦慮的心情。若你想要即刻追尋未來的方向，卻沒有把握的方式持續前進。歡迎你加入資訊種子的行列，提升你的就業即戰力，</span><span style=\"font-weight: bold; font-size: 18px;\">「當機會來臨時，相信你已經準備好了！」</span></p>\r\n            \r\n        \r\n            \r\n        \r\n            \r\n        \r\n            \r\n        ",
+        "status": "P",
+        "th": 4,
+        "name": "廖芷寧學姊<br>13th學員 14th課務",
+        "photo": "/images/sharing/71adb7a9-4fb8-4e07-ae3e-6f2c2e19f119.png",
+        "createdAt": "2017-06-19T16:04:41.261Z",
+        "updatedAt": "2017-06-20T14:16:52.183Z",
+        "id": 17,
+        "order": 4
+      },
+      {
+        "author": 2,
+        "title": "資種，一所教你挖掘自己是誰的學校",
+        "content": "\r\n            \r\n                \r\n            \r\n                \r\n            \r\n                \r\n            \r\n                \r\n            \r\n                <p><span style=\"font-size: 18px; font-weight: bold;\">你是否曾經在求學時期思考過「對於你，什麼才是最重要的」</span></p><p><span style=\"font-size: 18px;\">「對現在的你，什麼才是最重要的」這個關鍵的問題，會影響我們未來將努力的方向與目標、決定付出生命中大半時間的工作，甚至是每個需要做出人生重要抉擇的時刻。但在你的成長過程中，誰問了這重要的問題，而在未來踏入職場後，你又能充滿信心地回答這個問題嗎？</span></p><p><span style=\"font-size: 18px; font-weight: bold;\"> 資種是學校，但是教你如何挖掘自己是誰；</span></p><p><span style=\"font-size: 18px; font-weight: bold;\">也是職場前的前哨站，它為我打下一切的基礎</span></p><p><span style=\"font-size: 18px;\">在資種，你會不停地去思考為什麼，為什麼要秉持著這樣的信念、為什麼要設這個目標、為什麼要提供這樣的方式…。資種每一年，學員將經過六個扎實的專案訓練及實際執行，形式包羅萬象，而在密集專案的訓練中，不僅要學習如何做好事而不只是做事，更要加強時間管理，將課程及課務、學長姐的引導，發揮到最大，更要與其餘的 34 位夥伴攜手完成，你可以選擇擔任團隊中熟悉的角色，也可以突破自己，挑戰不同於以往的角色，更可以直接嘗試類似你有興趣的工作角色（例如行銷、業務、企劃、人力資源等）。在這樣的過程下，將獲得成熟的思考方式、軟硬實力的加速提升、自我發展的啟發與探索，將逐漸挖掘出你是誰？喜歡或不喜歡什麼？你在團隊中是哪一種不可或缺的角色？定義出你自己。在剛進資種之前，我是默默付出的執行者，在資種一年的機會中，我不斷挑戰領導型的角色與任務，最終學會如何主導團隊目標並號招夥伴一同達成，這是我，充滿目標導向但重視整體團隊的風格與方式。而從專案的發想、討論、策劃、執行以及驗收，學習用對的態度、對的做事情方法、對的團隊合作、對的應對進退…，最終達成專案的目標設定，這些，全部都能夠應用在初踏入的職場，為我打下了一切的基礎，經過資種一年的訓練後，大家紛紛都會覺得自己與同屆的同學相比之下，更能發揮自己的特長與潛力，適應瞬息萬變的職場生態，拿出積極進取的態度，抓住每一個機會。 </span></p><p><span style=\"font-size: 18px; font-weight: bold;\">為自己的蛻變而努力，為更好的選擇</span></p><p><span style=\"font-size: 18px;\">堅持當初仰賴在資種中不斷訓練、好上加好的基本功，讓我在畢業後加入新創公司的二年多中，有足夠的能量與態度，面對一切挑戰，不論是在執行工作、團隊合作、領導管理甚至是思考邏輯等…，加入資種是每個積極想找尋未來的人，都非常適合的選擇。如果你感受到自己的不足，或想追尋心中的理想，來資種，學習如何成為一個成熟到足以為自己負責的人，讓自己提早找到人生中最不能錯過以及最重要的事情。</span></p>\r\n            \r\n        \r\n            \r\n        \r\n            \r\n        \r\n            \r\n        \r\n            \r\n        ",
+        "status": "P",
+        "th": 4,
+        "name": "吳佩容學姊<br>11th 學員 12th 課務<br>",
+        "photo": "/images/sharing/0c0c8aee-5935-4ba6-a9e3-41c9694a025a.png",
+        "createdAt": "2017-06-19T17:22:09.879Z",
+        "updatedAt": "2017-06-20T15:40:34.411Z",
+        "id": 18,
+        "order": 2
+      },
+      {
+        "author": 2,
+        "title": "分享，讓你擁有全世界",
+        "content": "<p><span style=\"font-size: 18px;\">　　前年，是我大二升大三的時候，剛結束屬於社團的瘋狂，幹部交接的激昂過後，我忽然發現：接下來要做什麼呢？我坐在書桌前，拄著我的頭思索；我走在好漢坡上，出神的思考；甚至洗澡時我開始無法高聲歌唱，對於自己科系的茫然及往後兩年的方向，我開始焦慮且迷惘。腦海中一直不斷飄出：我該去哪找到方向，我該怎麼繼續成長？ </span></p><p><span style=\"font-size: 18px; font-weight: bold;\">走出校園、跨出舒適圈</span></p><p><span style=\"font-size: 18px;\">　　後來有次聽到認識的學長，向我分享了資訊種子培訓計畫，他認為很適合我。雖然不太清楚資種，但學長的分享像汪洋中拋出的救命索，把我拉離迷惘的濃霧中。我搜尋了資訊種子，而後面試，歷經書審及面試的準備，最後成為了一年的學員。 </span></p><p><span style=\"font-size: 18px; font-weight: bold;\">分享、夥伴、收穫、感動</span></p><p><span style=\"font-size: 18px;\">　　這一年，透過分享的力量，我從不同系所的夥伴身上看到了好多不同的視界。而我除了學習之外，也開始主動分享我所了解的知識，靠著這股力量大家一同成長，而我想在這個環境下，我找到了未來想努力的方向，更有效率的做事方法，這些都是從夥伴的身上互相學習得來的。甚至在接下來的一年，我接下了課務，期待能帶給下一屆學員，我去年所擁有的收穫及感動。 </span></p><p><span style=\"font-size: 18px; font-weight: bold;\">資種帶給我的禮物</span></p><p><span style=\"font-size: 18px;\">　　這一年的資種訓練，我將這些技巧帶進實習，而我也感受到資種訓練帶給我與別人的「不同」，我能更有邏輯的表達及完成事情、有效率地去做好事前準備，甚至能夠將在資種學習的資訊科技知識，成為實習上的一大助力，這些都是資種帶給我的禮物。 </span></p><p><span style=\"font-size: 18px; font-weight: bold;\">大學最重要的決定</span></p><p><span style=\"font-size: 18px;\">　　大四即將畢業的時刻，每次在求職面試中，總被問到：你不是醫管系嗎？怎麼會面試不同領域的工作。於是我開始說起加入資種後的學習及探索，軟硬實力的培養，夥伴間的互相學習，最後找到我未來的方向。面試官笑道：那資種對你應該很重要吧。我總是很肯定的回答：資種是我大學最重要的決定！</span></p>",
+        "status": "P",
+        "th": 4,
+        "name": "薛翔文學長<br>13th 學員 14th課務",
+        "photo": "/images/sharing/7eaadeba-f2ca-4a60-86da-e7972a8dacd6.png",
+        "createdAt": "2017-06-19T17:36:33.997Z",
+        "updatedAt": "2017-06-20T14:16:52.284Z",
+        "id": 20,
+        "order": 7
+      },
+      {
+        "author": 2,
+        "title": "加入資種，認識自己，勇敢成為更好的自己",
+        "content": "\r\n            \r\n                <p><span style=\"font-size: 18px;\">你是否曾經有過，想找到自己的熱愛的事，但卻不太敢嘗試新事物？</span></p><p><span style=\"font-size: 18px;\">你是否曾經有過，那個最引以為傲的技能，找無方法繼續提升、學習？</span></p><p><span style=\"font-size: 18px;\">你是否曾經有過，想成為那個崇仰的背景，卻在追隨的路上自我懷疑？</span></p><p><span style=\"font-size: 18px;\"><br></span></p><p><span style=\"font-size: 18px;\"> 加入資種前，剛結束一年的系學會生涯，</span></p><p><span style=\"font-size: 18px;\">除了引以為傲的系學會成果，</span></p><p><span style=\"font-size: 18px;\">似乎沒有什麼很強的硬實力、專長，或是很熱愛的領域，</span></p><p><span style=\"font-size: 18px;\">讓我對自己的職涯發展感到焦慮、不安。</span></p><p><span style=\"font-size: 18px;\"><br></span></p><p><span style=\"font-size: 18px;\"> </span></p><p><span style=\"font-size: 18px;\">而這時候，有一位很崇敬的系上學長，與我分享資訊種子培訓計畫，</span></p><p><span style=\"font-size: 18px;\">得知資種擁有多元課程、專案實作與職涯體驗的機會，</span></p><p><span style=\"font-size: 18px;\">讓我決定用力地抓住這塊浮木，</span></p><p><span style=\"font-size: 18px;\">希望他可以帶我去看看舒適圈以外的世界、</span></p><p><span style=\"font-size: 18px;\">讓我獲得得以在這片職涯大海生存的技能。</span></p><p><span style=\"font-size: 18px;\"><br></span></p><p><span style=\"font-size: 18px;\"> </span></p><p><span style=\"font-size: 18px;\">在這一年當中，影響最深的是職涯體驗計畫，</span></p><p><span style=\"font-size: 18px;\">在面試體驗職位時，被面試官學姊發現我對陌生的數位行銷領域感興趣，</span></p><p><span style=\"font-size: 18px;\">並鼓勵我應該要努力爭取、勇敢跨出舒適圈、勇敢地去準備與面試看看。</span></p><p><span style=\"font-size: 18px;\">經過努力上網自學相關知識與準備後，</span></p><p><span style=\"font-size: 18px;\">終於爭取到在數位行銷領域實習的機會。</span></p><p><span style=\"font-size: 18px;\"><br></span></p><p><span style=\"font-size: 18px;\"> 在這次的體驗計畫中，觀察到資種的學長姐，</span></p><p><span style=\"font-size: 18px;\">不只願意犧牲休息時間與學弟妹分享專業知識與職場環境，</span></p><p><span style=\"font-size: 18px;\">更用心整理自己在職場上的專業知識（成長駭客、電商行銷…）與我們分享，</span></p><p><span style=\"font-size: 18px;\">讓我的視野變得更廣。</span></p><p><span style=\"font-size: 18px;\">每週的職涯分享，更從夥伴的回饋當中，</span></p><p><span style=\"font-size: 18px;\">發現自己引以為傲的present能力，還有很大的成長空間，</span></p><p><span style=\"font-size: 18px;\">讓我日後在資種的日子更能虛心的觀察夥伴的能力，</span></p><p><span style=\"font-size: 18px;\">並不斷督促自己『好，還要再更好』。 </span></p><p><span style=\"font-size: 18px;\"><br></span></p><p><span style=\"font-size: 18px;\">在職涯體驗計畫的收穫，</span></p><p><span style=\"font-size: 18px;\">不單單是提升了數位行銷的知識並提升企劃能力，</span></p><p><span style=\"font-size: 18px;\">更認識了潘潘學姊，一位專業與溫暖兼具的學姊，我的人生燈塔。</span></p><p><span style=\"font-size: 18px;\"><br></span></p><p><span style=\"font-size: 18px;\"> 在感受到資種這個溫暖的環境後，</span></p><p><span style=\"font-size: 18px;\">我決定延續這個『好的循環』，將資種的好讓更多的人看到，</span></p><p><span style=\"font-size: 18px;\">因而競選『招生專案總召』，</span></p><p><span style=\"font-size: 18px;\">帶領夥伴成功延續與傳承資訊種子的精神與培訓計畫。 </span></p><p><span style=\"font-size: 18px;\"><br></span></p><p><span style=\"font-size: 18px;\">如果我沒有加入資種，或許我就不會開始累積不同領域的能力，</span></p><p><span style=\"font-size: 18px;\">如果我沒有加入資種，就會停溜在同溫層而毫無自覺。 </span></p><p><span style=\"font-size: 18px;\"><br></span></p><p><span style=\"font-size: 18px;\">歡迎加入資訊種子，</span></p><p><span style=\"font-size: 18px;\">讓原本擅長的事情變得更強，</span></p><p><span style=\"font-size: 18px;\">讓沒嘗試過的事情，有開始累積的機會！</span></p>\r\n            \r\n        ",
+        "status": "P",
+        "th": 4,
+        "name": "林瑜禎學姊<br>13th 學員 14th 課務",
+        "photo": "/images/sharing/eee9a2e4-f44e-491a-a19e-0c11b0b292d4.png",
+        "createdAt": "2017-06-19T17:42:27.555Z",
+        "updatedAt": "2017-06-20T14:16:52.253Z",
+        "id": 21,
+        "order": 6
+      },
+      {
+        "author": 2,
+        "title": "「慶幸，曾經」",
+        "content": "\r\n            \r\n                \r\n            \r\n                \r\n            \r\n                \r\n            \r\n                \r\n            \r\n                \r\n            \r\n                <p><span style=\"font-size: 18px;\">　　大四，面臨著人生第一個十字路口，我們都會徬徨，都會疑惑，究竟哪一條才是適合自己的道路？是不是一步走錯了人生就會隨之變調。還記得，兩年前的自己也曾經這樣無助，生命科學系，當大四大家都忙著準備研究所考試甚至進入實驗室跟著老師做實驗，我卻對這樣的路產生疑惑，「我真的適合這樣的生活嗎？是不是還有更豐富的生活自己還沒嘗試過？」在這樣的猶豫下，很幸運地，當我鼓足了勇氣，另一個不同的生活圈也正展開雙臂擁抱自己：資訊種子─我的第二個家。</span></p><p><span style=\"font-size: 18px;\">　　剛踏入資種成為學員，面對從沒接觸過的產業課程、實作專案甚至到不同科系背景的人事物，各個不同面向的思維均不斷受到碰撞，我開始學習如何從中增進自己的高度、廣度及深度。藉由專案召部經驗，學習如何以初階主管的角度思考整體專案運作、部門組織架構的成形，到與不同利害關係人的溝通；藉由多元課程，擺擺脫以往自己只專注於生物領域方面的能力，開始嘗試理解不同產業面的思維，學習以不同的角度處理不同的人事物，不再只用片面的想法看待這個世界；藉由夥伴之間的情誼連結，不僅加深了對於資種的認同感，也在群體中找到了渴望已久的歸屬感，成為自己的第二個家。其實，學員時期最大的收穫，便是在於藉由一年的培訓，讓原本還是大學生的自己，轉變成即將踏入職場的角色預備。</span></p><p><span style=\"font-size: 18px;\">　　如果問我說「為什麼會選擇繼續留下來課務？」其實最簡單的答案便是資種的核心精神─分享、傳承、回饋。在前面的分享曾提及，資種提升了自己的視野高度、思想廣度及情感深度。面對這樣轉變，除了希望下一屆的學員也能有這樣的收穫，更期待自己能夠從「手心向上」的學習者，變成「手心向下」的給予者，因此對於課務，更貼切一點的說法會是「教育者」，將自己這一年資種所學用另一種語言傳遞給下一屆學員。</span></p><p><span style=\"font-size: 18px;\">　　成為課務，無疑是對於自己是高一層的淬鍊。在這一年，我們將不斷且強烈的與自己碰撞：在高度，我們將從初階主管晉升為中階主管，對上有公會組織及校友會，對下有當屆學員，學習扮演不同利害關係人之間的平衡點，釐清自我價值成為課務最重要的課題；在廣度，我們將成為品牌享受者轉為品牌維護者，開始接觸到不同專業面的講師，當遇到非自己專業的講師但又必須與其洽談課程內容時，自我學習及成長變顯得格外重要，讓講師了解資種人都是具有一定的素養；在深度，與其他四位課務夥伴將會產生比起當屆學員更深的連結，無論是工作或是情感，課務這條路終會把最原本的自己顯露在夥伴面前，學習接納同時改善自己的不足，將成為支持彼此成長最重要的養分。其實，課務時期最大的收穫，便是藉由一年的洗滌，重新認識自己。</span></p><p><span style=\"font-size: 18px;\">　　「希望五年後成為怎樣的自己？」當你還在猶豫要不要加入資種，對於資種能給予自己多少時，不妨這樣問問自己。現在的我，慶幸自己選擇了一個地方默默深耕，不僅從一顆小種子快速成長為一棵大樹，更成為了其他小種子的庇護及灌溉者。</span></p>\r\n            \r\n        \r\n            \r\n        \r\n            \r\n        \r\n            \r\n        \r\n            \r\n        \r\n            \r\n        ",
+        "status": "P",
+        "th": 4,
+        "name": "鄭濡萱學姊<br>13th學員 14th課務",
+        "photo": "/images/sharing/b1cf3f53-54aa-4475-a9fe-60b4702f47d3.png",
+        "createdAt": "2017-06-19T17:48:37.096Z",
+        "updatedAt": "2017-06-20T14:16:52.220Z",
+        "id": 22,
+        "order": 5
+      },
+      {
+        "author": 2,
+        "title": "一年資種，一生烙印",
+        "content": "\r\n            \r\n                <p><span style=\"font-size: 18px;\">　　承蒙十四屆學弟妹的邀請，來幫資訊種子寫篇推薦文，天曉得七屆的我都畢業多久了（基本算數都不會？）</span></p><p><span style=\"font-size: 18px;\">　　先來個簡單介紹，資訊種子培訓計畫是新北市電腦商業同業公會主辦的計畫，是一群台灣高科技產業的老闆們佛心來著，不求回報的出錢出力，以培養未來投入資訊科技相關產業的年輕人才。為期一年的培訓從九月到八月，每屆只收 35 個大三到碩一的學生，不收取任何費用，除了隔週六下午的演講外，還有五到六個專案，讓學生不僅僅是聽課，更有實際操作以及與學長姐互動的機會。資訊種子培訓計畫（以下簡稱資種）是我在台南成大安逸了六年後，負笈天龍國留學所參加的第一個校外活動，能在碩一這個資種的最後年限裡被撿進去，我只能說「非。常。幸。運。」啊～～～資種有太多值得分享的部分，由小弟拋磚引玉個！</span></p><p><span style=\"font-size: 18px; font-weight: bold;\">　　一、規劃完整的制度：</span></p><p><span style=\"font-size: 18px;\">　　開訓時複雜的規定讓我傻眼，每堂課程之前一定要繳交預習並提出問題，上完課後一定要繳交複習與撰寫心得，是演哪齣......但這種事情就是被逼著做了之後才會知道背後的用心，因為課前預習對於講者與主題有了基本認識，聽課時才能針對不懂或是想深入瞭解的部分發問；因為課後複習重新整理思緒，將想法轉化成有邏輯的文字輸出促進吸收。演講大家都聽很多，但聽了多少進去呢？預複習的要求很麻煩，卻明顯提升了知識學習的效率，也讓人養成了良好習慣。</span></p><p><span style=\"font-size: 18px; font-weight: bold;\">　　二、外面聽不到的課程：</span></p><p><span style=\"font-size: 18px;\">　　就像前面說的，一群大老闆們既然佛心來著舉辦培訓計畫，除了自己在百忙之中要撥空分享外，自然是要燃燒人脈來共襄盛舉。於是，許多不太常在外拋頭露面給予分享的前輩們，都願意犧牲自己一個週末下午的時間，來跟這群小毛頭談談自己的人生。每堂課看到那些董總字輩的大師們，殷殷切切地與我們分享經驗，都覺得自己萬分榮幸，何德何能啊......（跪）跟這些長輩們的緣份也不僅僅於課堂上，在各項專案以及各種節慶上，都有機會跟他們有更多更深的互動，從他們身上學習到非常非常多的寶貴經驗，是各種校外活動中極其罕見的。</span></p><p><span style=\"font-size: 18px; font-weight: bold;\">　　三、素質優秀的同儕：</span></p><p><span style=\"font-size: 18px;\">　　我一直覺得資種只收大三到碩一的設計很聰明，至少有大學前兩三年在校內外的經驗累積，加上嚴謹的履歷與面試篩選，能夠獲選為學員的人們，都帶著足夠的積極度以及一定的成熟度。在追求多元學校、科系、性別的原則下，讓我從一個只參與校內活動的鄉巴佬，一口氣透過其他 34 個不同成長歷程的學員，打開了自己眼界，拓展了自身視野。不諱言地說，在台成這樣的一線校園中，其實大多數人的背景都差不多，家境不錯、從小補習、高中前三志願、大學台政清交成。但在資種，我看到了許多非名校的同儕，不一定是不愛讀書，而是家庭環境可能無法支持其專心唸書；不一定是無法適應填鴨式教育，而是早早就有自己的人生方向決定攻讀音樂美術體育等非主流的科系；不一定是資質駑鈍，而是自覺沒有必要順從無聊的台灣社會價值觀。在這裡���我看到了「優秀」的不同面向，而非「萬般皆下品，唯有讀書高」的中華民族遺毒。就讀名校又如何？不過是比較幸運罷了，從資種看到這點，是我人生中很重要的突破。</span></p><p><span style=\"font-size: 18px; font-weight: bold;\">　　四、精心設計的專案：</span></p><p><span style=\"font-size: 18px;\">　　在課堂之外安排的各項專案，讓學員們除了靜態課程外，還能擁有動態實作以及跟同儕學長姐更多互動機會。從一開始的 TUV 就由學長姐帶著學員從小東西激發創意、公會春酒表演培養同屆感情、學長姐提供職涯體驗更認識產業與職場、海外參訪建立了革命情感、招生宣傳找尋下屆學弟妹、結業典禮回憶過往一年。加上每學期兩次的企業參訪，每項專案都有其明確設定與意涵，多元面向的學習，基本上專案的收穫太多太多了，在此先點到為止就好，不然就要另開新文章了（冷靜......）而如此精緻豐富的專案背後，是資種課務們強大的規劃能力啊！</span></p><p><span style=\"font-size: 18px; font-weight: bold;\">　　五、十八般武藝的課務：</span></p><p><span style=\"font-size: 18px;\">　　咦，剛剛出現了「課務」這個新名詞？什麼是課務呢？原來是由每屆遴選出願意再度投入一年的學員，安���接下來學弟妹的課程與專案。用過來人的經驗，保留過往頗受好評的講者與專案，修正還有改進空間的課程與規劃，讓資種一年比一年更好。由於課務擔任公會、校友、學員三方間的橋樑，對於執行各項細節、溝通協調眾人、事項佈達台風等，都有非常大量的練習機會。跟下一屆的學弟妹也有非常多互動，除了多認識 35 位來自四面八方的優秀學員外，再給自己一年的時間學習成長，與許多身兼公司負責人的長輩們面對面坐下來討論事情，更是人生難得的機會與收穫。</span></p><p><span style=\"font-size: 18px; font-weight: bold;\">　　六、莫名強大的校友：</span></p><p><span style=\"font-size: 18px;\">　　或許是培訓計畫做得早、或許是制度設計得好、或許是長輩用心投入，總之我也不知道什麼原因（？）資種校友在各自的人生道路上都有很棒的發展，不管是出國留學後在當地工作、還是在台灣進入頂尖外商的學長姐弟妹都大有人在，甚至在長輩薰陶之下決定自行創業的校友們，都不知不覺在台灣新創圈小有名氣（iCHEF / inside / KumaWash / 貝殼放大 / PicSee 等共同創辦人都有資種校友的身影）當人生遇到不管什麼面向的疑惑，在任何產業與職位幾乎都有資種學長姐願意跟你聊聊，不為什麼？僅僅因為你我曾經都待過這個地方，曾經都寫過麻煩的預習複習，曾經都撐過專案轟炸，才足以擁有「資種人」這個身份。</span></p><p><span style=\"font-size: 18px;\">　　最後，動筆寫下這些點滴，重新回味那年時光，就像雷諾瓦所說的「痛苦會過去，美會留下。」我很幸運能有機會經歷這些那些，才成就了如此值得回憶的一年。言語不及親身親歷萬分之一，聽別人說得再多，都不如親自體會，給自己一個蛻變的機會吧！相信一年後，你將會感謝現在勇敢踏出那一步的自己：）</span></p>\r\n            \r\n        ",
+        "status": "P",
+        "th": 4,
+        "name": "林浩崴學長<br>7th 學員 ",
+        "photo": "/images/sharing/ea9bccd2-b08d-4bb6-b904-fa3a9d6f4a39.png",
+        "createdAt": "2017-06-19T18:12:02.113Z",
+        "updatedAt": "2017-06-20T14:16:52.079Z",
+        "id": 23,
+        "order": 1
+      }
+    ],
+    "systemsetting": [
+      {
+        "name": "endDate",
+        "value": "2017/07/07 00:00",
+        "description": "報名結束時間",
+        "createdAt": "2017-05-30T17:50:05.643Z",
+        "updatedAt": "2017-05-30T17:50:05.643Z",
+        "id": 1
+      },
+      {
+        "name": "startDate",
+        "value": "2017/05/01 01:50",
+        "description": "報名開始時間",
+        "createdAt": "2017-05-30T17:50:09.245Z",
+        "updatedAt": "2018-05-13T13:10:44.048Z",
+        "id": 2
+      },
+      {
+        "name": "th",
+        "value": "15",
+        "description": "報名屆數",
+        "createdAt": "2017-05-30T18:37:15.651Z",
+        "updatedAt": "2017-05-30T18:37:15.651Z",
+        "id": 3
+      }
+    ],
+    "timeline": [],
+    "user": [
+      {
+        "email": "admin@gmail.com",
+        "pwd": "9077eb4feb6e51026d801f9cd279c80f",
+        "th": 15,
+        "gIdToken": null,
+        "photo": "/images/layout/logo.png",
+        "type": "A",
+        "createdAt": "2018-05-19T14:40:05.678Z",
+        "updatedAt": "2018-05-19T14:40:05.688Z",
+        "id": 2,
+        "disc": 2,
+        "files": 2
+      }
+    ],
+    "userdisc": [
+      {
+        "user": 2,
+        "createdAt": "2018-05-19T14:40:05.681Z",
+        "updatedAt": "2018-05-19T14:40:05.681Z",
+        "id": 2
+      }
+    ],
+    "userfiles": [
+      {
+        "user": 2,
+        "createdAt": "2018-05-19T14:40:05.685Z",
+        "updatedAt": "2018-05-19T14:40:05.685Z",
+        "id": 2
+      }
+    ],
+    "video": [],
+    "emailv": []
+  },
+  "schema": {
+    "aboutitseed": {
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "author": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "author"
+      },
+      "title": {
+        "type": "string",
+        "notNull": true
+      },
+      "content": {
+        "type": "text",
+        "notNull": true
+      },
+      "status": {
+        "type": "string"
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "aboutntca": {
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "author": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "author"
+      },
+      "title": {
+        "type": "string",
+        "notNull": true
+      },
+      "content": {
+        "type": "text",
+        "notNull": true
+      },
+      "status": {
+        "type": "string"
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "businessvisit": {
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "author": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "author"
+      },
+      "th": {
+        "type": "integer",
+        "notNull": true
+      },
+      "photo": {
+        "type": "string",
+        "defaultsTo": "/images/businessVisit/default.png"
+      },
+      "title": {
+        "type": "string",
+        "notNull": true
+      },
+      "content": {
+        "type": "text",
+        "notNull": true
+      },
+      "order": {
+        "type": "integer",
+        "autoIncrement": true
+      },
+      "status": {
+        "type": "string"
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "career": {
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "author": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "author"
+      },
+      "th": {
+        "type": "integer",
+        "notNull": true
+      },
+      "name": {
+        "type": "string",
+        "notNull": true
+      },
+      "photo": {
+        "type": "string",
+        "defaultsTo": "/images/career/default.png"
+      },
+      "title": {
+        "type": "string",
+        "notNull": true
+      },
+      "content": {
+        "type": "text",
+        "notNull": true
+      },
+      "order": {
+        "type": "integer",
+        "autoIncrement": true
+      },
+      "status": {
+        "type": "string"
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "courseinfo": {
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "author": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "author"
+      },
+      "th": {
+        "type": "integer"
+      },
+      "speaker": {
+        "type": "string"
+      },
+      "speakerTitle": {
+        "type": "string"
+      },
+      "photo": {
+        "type": "string",
+        "defaultsTo": "/images/courseInfo/default.png"
+      },
+      "title": {
+        "type": "string",
+        "notNull": true
+      },
+      "content": {
+        "type": "text",
+        "notNull": true
+      },
+      "order": {
+        "type": "integer",
+        "autoIncrement": true
+      },
+      "status": {
+        "type": "string"
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "courselist": {
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "author": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "author"
+      },
+      "title": {
+        "type": "string",
+        "notNull": true
+      },
+      "content": {
+        "type": "text",
+        "notNull": true
+      },
+      "order": {
+        "type": "integer",
+        "autoIncrement": true
+      },
+      "status": {
+        "type": "string"
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "faq": {
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "author": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "author"
+      },
+      "title": {
+        "type": "string",
+        "notNull": true
+      },
+      "content": {
+        "type": "text",
+        "notNull": true
+      },
+      "order": {
+        "type": "integer",
+        "autoIncrement": true
+      },
+      "status": {
+        "type": "string"
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "instructor": {
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "author": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "author"
+      },
+      "title": {
+        "type": "string",
+        "notNull": true
+      },
+      "content": {
+        "type": "text",
+        "notNull": true
+      },
+      "order": {
+        "type": "integer",
+        "autoIncrement": true
+      },
+      "status": {
+        "type": "string"
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "memberlist": {
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "author": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "author"
+      },
+      "title": {
+        "type": "string",
+        "notNull": true
+      },
+      "content": {
+        "type": "text",
+        "notNull": true
+      },
+      "order": {
+        "type": "integer",
+        "autoIncrement": true
+      },
+      "status": {
+        "type": "string"
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "news": {
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "author": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "author"
+      },
+      "title": {
+        "type": "string",
+        "notNull": true
+      },
+      "content": {
+        "type": "text",
+        "notNull": true
+      },
+      "status": {
+        "type": "string"
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "overseavisit": {
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "author": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "author"
+      },
+      "th": {
+        "type": "integer"
+      },
+      "title": {
+        "type": "string",
+        "notNull": true
+      },
+      "content": {
+        "type": "text",
+        "notNull": true
+      },
+      "order": {
+        "type": "integer",
+        "autoIncrement": true
+      },
+      "status": {
+        "type": "string"
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "project": {
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "author": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "author"
+      },
+      "th": {
+        "type": "integer"
+      },
+      "title": {
+        "type": "string",
+        "notNull": true
+      },
+      "content": {
+        "type": "text",
+        "notNull": true
+      },
+      "order": {
+        "type": "integer",
+        "autoIncrement": true
+      },
+      "status": {
+        "type": "string"
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "regfile": {
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "finished": {
+        "type": "integer"
+      },
+      "author": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "author"
+      },
+      "title": {
+        "type": "string",
+        "notNull": true
+      },
+      "content": {
+        "type": "text",
+        "notNull": true
+      },
+      "status": {
+        "type": "string"
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "reginfo": {
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "author": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "author"
+      },
+      "title": {
+        "type": "string",
+        "notNull": true
+      },
+      "content": {
+        "type": "text",
+        "notNull": true
+      },
+      "status": {
+        "type": "string"
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "sharing": {
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "author": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "author"
+      },
+      "th": {
+        "type": "integer"
+      },
+      "name": {
+        "type": "string",
+        "notNull": true
+      },
+      "photo": {
+        "type": "string",
+        "defaultsTo": "/images/sharing/default.png"
+      },
+      "title": {
+        "type": "string",
+        "notNull": true
+      },
+      "content": {
+        "type": "text",
+        "notNull": true
+      },
+      "order": {
+        "type": "integer",
+        "autoIncrement": true
+      },
+      "status": {
+        "type": "string"
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "systemsetting": {
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "name": {
+        "type": "string"
+      },
+      "value": {
+        "type": "string"
+      },
+      "description": {
+        "type": "string"
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "timeline": {
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "author": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "author"
+      },
+      "title": {
+        "type": "string",
+        "notNull": true
+      },
+      "content": {
+        "type": "text",
+        "notNull": true
+      },
+      "status": {
+        "type": "string"
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "user": {
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "gIdToken": {
+        "type": "string",
+        "defaultsTo": null
+      },
+      "finished": {
+        "type": "integer"
+      },
+      "email": {
+        "type": "string",
+        "unique": true
+      },
+      "pwd": {
+        "type": "string",
+        "defaultsTo": null
+      },
+      "phone": {
+        "type": "string"
+      },
+      "name": {
+        "type": "string"
+      },
+      "gender": {
+        "type": "string"
+      },
+      "school": {
+        "type": "string"
+      },
+      "grade": {
+        "type": "string"
+      },
+      "reference": {
+        "type": "string"
+      },
+      "photo": {
+        "type": "string",
+        "defaultsTo": "/images/layout/logo.png"
+      },
+      "type": {
+        "type": "string",
+        "defaultsTo": "U"
+      },
+      "th": {
+        "type": "integer"
+      },
+      "disc": {
+        "type": "integer",
+        "model": "userdisc",
+        "foreignKey": true,
+        "alias": "disc"
+      },
+      "files": {
+        "type": "integer",
+        "model": "userfiles",
+        "foreignKey": true,
+        "alias": "files"
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "userdisc": {
+      "a1": {
+        "type": "string"
+      },
+      "a2": {
+        "type": "string"
+      },
+      "a3": {
+        "type": "string"
+      },
+      "a4": {
+        "type": "string"
+      },
+      "finished": {
+        "type": "integer"
+      },
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "q1": {
+        "type": "integer"
+      },
+      "q2": {
+        "type": "integer"
+      },
+      "q3": {
+        "type": "integer"
+      },
+      "q4": {
+        "type": "integer"
+      },
+      "q5": {
+        "type": "integer"
+      },
+      "q6": {
+        "type": "integer"
+      },
+      "q7": {
+        "type": "integer"
+      },
+      "q8": {
+        "type": "integer"
+      },
+      "q9": {
+        "type": "integer"
+      },
+      "q10": {
+        "type": "integer"
+      },
+      "q11": {
+        "type": "integer"
+      },
+      "q12": {
+        "type": "integer"
+      },
+      "q13": {
+        "type": "integer"
+      },
+      "q14": {
+        "type": "integer"
+      },
+      "q15": {
+        "type": "integer"
+      },
+      "q16": {
+        "type": "integer"
+      },
+      "q17": {
+        "type": "integer"
+      },
+      "q18": {
+        "type": "integer"
+      },
+      "q19": {
+        "type": "integer"
+      },
+      "q20": {
+        "type": "integer"
+      },
+      "user": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "user"
+      },
+      "animal": {
+        "type": "string"
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "userfiles": {
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "finished": {
+        "type": "integer"
+      },
+      "confirm": {
+        "type": "integer"
+      },
+      "registration": {
+        "type": "string"
+      },
+      "registrationUT": {
+        "type": "datetime"
+      },
+      "autobiography": {
+        "type": "string"
+      },
+      "autobiographyUT": {
+        "type": "datetime"
+      },
+      "receipt": {
+        "type": "string"
+      },
+      "receiptUT": {
+        "type": "datetime"
+      },
+      "allFiles": {
+        "type": "integer"
+      },
+      "user": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "user"
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "video": {
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "author": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "author"
+      },
+      "title": {
+        "type": "string",
+        "notNull": true
+      },
+      "content": {
+        "type": "text",
+        "notNull": true
+      },
+      "order": {
+        "type": "integer",
+        "autoIncrement": true
+      },
+      "status": {
+        "type": "string"
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "emailv": {
+      "mailmd5": {
+        "type": "string",
+        "unique": true
+      },
+      "email": {
+        "type": "string"
+      },
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    }
+  },
+  "counters": {
+    "aboutitseed": {
+      "id": 5
+    },
+    "aboutntca": {
+      "id": 1
+    },
+    "businessvisit": {
+      "id": 4,
+      "order": 4
+    },
+    "career": {},
+    "courseinfo": {
+      "id": 21,
+      "order": 21
+    },
+    "courselist": {},
+    "faq": {
+      "id": 10,
+      "order": 10
+    },
+    "instructor": {},
+    "memberlist": {},
+    "news": {},
+    "overseavisit": {},
+    "project": {},
+    "regfile": {},
+    "reginfo": {
+      "id": 3
+    },
+    "sharing": {
+      "id": 24,
+      "order": 24
+    },
+    "systemsetting": {
+      "id": 3
+    },
+    "timeline": {},
+    "user": {
+      "id": 2
+    },
+    "userdisc": {
+      "id": 2
+    },
+    "userfiles": {
+      "id": 2
+    },
+    "video": {},
+    "emailv": {}
+  }
+}
