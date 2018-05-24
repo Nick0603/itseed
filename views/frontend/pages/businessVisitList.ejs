@@ -2,13 +2,13 @@
 <!--END HEADER-->
 
 <section class="section-businessVisitList">
-<div class="sub-nav">
-  <ul>
-    <li><a href="/courseInfo">講座課程</a></li> |
-    <li><a class="active" href="/businessVisit">企業參訪</a></li> |
-    <li><a href="/tuv">六大專案</a></li>
-  </ul>
-</div>
+<div class="sub-nav course-nav">
+    <ul>
+      <li><a  class="active" href="/courseInfo">講座課程</a></li> 
+      <li><a href="/businessVisit">企業參訪</a></li> 
+      <li><a href="/tuv">六大專案</a></li>
+    </ul>
+  </div>
 <div class="six-hg-title">
   <div class="six-hg-tit main-color">
       <span>企業參訪</span>
@@ -46,6 +46,16 @@
         
       <% } %>
       <% if(i % 2 == 1 ){ %>
+         <div class="why-bsv1">
+          <h4 class="main1-color">參訪簡介</h4>
+          <p>店長 Cathy 細心地介紹每款遊戲的內容與製作背後的發想來源，遊戲軟體測試（QA）。Frieda則講述每款遊戲背後，都是由人工至少測試幾百次，找出紕漏，改善至良好的使用者體驗與互動，這也印證了雷亞遊戲追求卓越的理念：「從心出發的設計與永不妥協的堅持，以創造藝術的信念打造旗下每一支產品。」</p>
+      　
+        </div>
+        <div class="why-bsv1">
+          <h4 class="main1-color">參訪簡介</h4>
+          <p>店長 Cathy 細心地介紹每款遊戲的內容與製作背後的發想來源，遊戲軟體測試（QA）。Frieda則講述每款遊戲背後，都是由人工至少測試幾百次，找出紕漏，改善至良好的使用者體驗與互動，這也印證了雷亞遊戲追求卓越的理念：「從心出發的設計與永不妥協的堅持，以創造藝術的信念打造旗下每一支產品。」</p>
+      　
+        </div>
         <div class="bsV2">
           
           <img src="<%= datas[i].photo %>">
