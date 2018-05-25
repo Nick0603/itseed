@@ -193,6 +193,30 @@ module.exports.routes = {
     controller: 'Site',
     action: 'video'
   },
+  '/intern01': {
+    controller: 'Site',
+    action: 'intern01'
+  },
+  '/intern02': {
+    controller: 'Site',
+    action: 'intern02'
+  },
+  '/intern03': {
+    controller: 'Site',
+    action: 'intern03'
+  },
+  '/intern04': {
+    controller: 'Site',
+    action: 'intern04'
+  },
+  '/intern05': {
+    controller: 'Site',
+    action: 'intern05'
+  },
+  '/seminarSign': {
+    controller: 'Site',
+    action: 'seminarSign'
+  },
 
   'get /hey': {
     // view: 'frontend/pages/hey'

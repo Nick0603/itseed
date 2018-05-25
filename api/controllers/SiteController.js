@@ -640,5 +640,29 @@ module.exports = {
         return res.view("frontend/pages/careerSharingContent",{
         });
     },
+    intern01: function(req, res){
+        return res.view("frontend/pages/intern01",{
+        });
+    },
+    intern02: function(req, res){
+        return res.view("frontend/pages/intern02",{
+        });
+    },
+    intern03: function(req, res){
+        return res.view("frontend/pages/intern03",{
+        });
+    },
+    intern04: function(req, res){
+        return res.view("frontend/pages/intern04",{
+        });
+    },
+    intern05: function(req, res){
+        return res.view("frontend/pages/intern05",{
+        });
+    },
+    seminarSign: function(req, res){
+        return res.view("frontend/pages/seminarSign",{
+        });
+    },
 };
 
